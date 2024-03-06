@@ -1,0 +1,20 @@
+{
+  "name": "retrogen-template",
+  "version": "0.0.1",
+  "description": "Generator of retros for the public Twilio organizations",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "standard --fix",
+    "generate": "npm run generate:twilio && npm run generate:twilio-labs && npm run generate:twilio-samples",
+    "generate:twilio": "node retro/generate-twilio.js",
+    "generate:twilio-labs": "node retro/generate-twilio-labs.js",
+    "generate:twilio-samples": "node retro/generate-twilio-samples.js"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@retrogen/generate": "^0.0.2",
+    "luxon": "^2.3.2"
+  }
+}
