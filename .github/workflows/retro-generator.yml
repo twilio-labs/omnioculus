@@ -24,10 +24,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           body: >
-            Here's a new weekly retro, automatically generated with
+            Here's a new retro, automatically generated with
             GitHub Actions and `@retrogen/generate`.
           branch: actions/retrogen  # Custom branch *just* for this Action.
-          commit-message: 'doc: generate weekly retro'
-          title: 'doc: generate weekly retro'
+          commit-message: 'doc: generate retro'
+          title: 'doc: generate retro'
           assignees: bnb # change to whoever you want to be assigned to this PR
           auto-merge: squash
