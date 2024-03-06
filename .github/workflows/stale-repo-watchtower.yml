@@ -1,0 +1,42 @@
+name: Stale Repo Watchtower
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  build:
+    name: Stale Repo Watchtower
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        org: [twilio, twilio-labs]
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Run stale_repos tool
+      uses: github/stale-repos@v1
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ORGANIZATION: ${{ matrix.org }}
+        INACTIVE_DAYS: 182
+        ACTIVITY_METHOD: "pushed"
+
+    # This next step updates an existing issue. If you want a new issue every time, remove this step and remove the `issue-number: ${{ env.issue_number }}` line below.
+    - name: Check for the stale report issue
+      run: |
+        ISSUE_NUMBER=$(gh search issues "Stale Repository Watchtower Report (Twilio)" --match title --json number --jq ".[0].number")
+        echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create issue
+      uses: peter-evans/create-issue-from-file@v5
+      with:
+        issue-number: ${{ env.issue_number }}
+        title: Stale Repository Watchtower Report (Twilio)
+        content-filepath: ./stale_repos.md
+        assignees: bnb
+        token: ${{ secrets.GITHUB_TOKEN }}
