@@ -21,8 +21,7 @@ async function convertToFileWithDate (sourceFile, outputLocation, prefix) {
     const usableDate = now.toISODate()
 
     // build out the filename for our output file
-    const sourceFileName = basename(resolvedSource, '.md')
-    const resolvedOutput = `${resolvedOutputLocation}/${prefix}-${sourceFileName}-${usableDate}.md`
+    const resolvedOutput = `${resolvedOutputLocation}/${prefix}-${usableDate}.md`
 
     // rename the file from the original name and location to the new name and location
     await rename(resolvedSource, resolvedOutput)
