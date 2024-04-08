@@ -8,9 +8,8 @@ const { DateTime } = require('luxon')
 
 // sourceFile should be a filename that we want to rename and move
 // outputLocation should be a path to where we want the renamed file to end up
-async function convertToFileWithDate (sourceFile, outputLocation) {
+async function convertToFileWithDate (sourceFile, outputLocation, prefix) {
   try {
-    console.log('starting')
     // get the usable path for our source file
     const resolvedSource = resolve(sourceFile)
 
@@ -22,13 +21,10 @@ async function convertToFileWithDate (sourceFile, outputLocation) {
     const usableDate = now.toISODate()
 
     // build out the filename for our output file
-    const sourceFileName = basename(resolvedSource, '.md')
-    const resolvedOutput = `${resolvedOutputLocation}/${sourceFileName}-${usableDate}.md`
+    const resolvedOutput = `${resolvedOutputLocation}/${prefix}-${usableDate}.md`
 
     // rename the file from the original name and location to the new name and location
     await rename(resolvedSource, resolvedOutput)
-
-    console.log('finished')
   } catch (err) {
     console.error(err.message)
   }
