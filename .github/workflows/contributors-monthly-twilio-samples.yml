@@ -4,16 +4,12 @@ on:
   schedule:
     - cron: '0 0 1 * *'
 
-permissions:
-  issues: write
-
 jobs:
   contributor_report:
     name: Contributor Report (Twilio Samples)
     runs-on: ubuntu-latest
-
     steps:
-      - name: Get dates for last month
+      - name: Get Dates for Last Month
         shell: bash
         run: |
           # Calculate the first day of the previous month
@@ -25,8 +21,7 @@ jobs:
           #Set an environment variable with the date range
           echo "START_DATE=$start_date" >> "$GITHUB_ENV"
           echo "END_DATE=$end_date" >> "$GITHUB_ENV"
-  
-      - name: Run contributor action
+      - name: Run Contributor Action
         uses: github/contributors@v1
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -34,11 +29,18 @@ jobs:
           END_DATE: ${{ env.END_DATE }}
           ORGANIZATION: twilio-samples
           SPONSOR_INFO: "false"
-  
-      - name: Create issue
-        uses: peter-evans/create-issue-from-file@v5
+      - name: Move generated contributors file to storage
+        run: npm run convert:contributors
+      - name: run create/update pull request
+        uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          title: Monthly contributor report
-          token: ${{ secrets.GITHUB_TOKEN }}
-          content-filepath: ./contributors.md
-          assignees: bnb
+          body: >
+            Here's a monthly contributor report for the Twilio organization,
+            automatically generated with GitHub Actions.
+          branch: actions/contributors  # Custom branch *just* for this Action.
+          commit-message: 'doc: generate contributor report for the Twilio organization'
+          title: 'doc: generate contributor report for the Twilio organization'
+          assignees: bnb # change to whoever you want to be assigned to this PR
+          auto-merge: squash
