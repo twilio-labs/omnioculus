@@ -47,10 +47,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           body: >
-            Here's a monthly contributor report for the Twilio organization,
+            Here's a monthly contributor report for the Twilio Labs organization,
             automatically generated with GitHub Actions.
           branch: actions/contributors  # Custom branch *just* for this Action.
-          commit-message: 'doc: generate contributor report for the Twilio organization'
-          title: 'doc: generate contributor report for the Twilio organization'
+          commit-message: 'doc: generate contributor report for the Twilio Labs organization'
+          title: 'doc: generate contributor report for the Twilio Labs organization'
           assignees: bnb # change to whoever you want to be assigned to this PR
           auto-merge: squash
