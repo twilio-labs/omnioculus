@@ -1,20 +1,20 @@
 {
   "name": "retrogen-template",
   "version": "0.0.1",
-  "description": "Generator of retros for the public Twilio organizations",
+  "description": "Utilities for collecting public information about the public Twilio GitHub organizations",
   "scripts": {
-    "lint": "standard",
-    "lint:fix": "standard --fix",
-    "generate": "npm run generate:twilio && npm run generate:twilio-labs && npm run generate:twilio-samples",
-    "generate:twilio": "node retro/generate-twilio.js",
-    "generate:twilio-labs": "node retro/generate-twilio-labs.js",
-    "generate:twilio-samples": "node retro/generate-twilio-samples.js"
+    "retros": "npm run retro:twilio && npm run retro:twilio-labs && npm run retro:twilio-samples",
+    "retro:twilio": "node utilities/retros/twilio.js",
+    "retro:twilio-labs": "node utilities/retros/twilio-labs.js",
+    "retro:twilio-samples": "node utilities/retros/twilio-samples.js",
+    "convert": "npm run convert:contributors",
+    "convert:contributors": "node utilities/convertContributors.js"
   },
   "keywords": [],
   "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
   "license": "MIT",
   "dependencies": {
     "@retrogen/generate": "^0.0.2",
-    "luxon": "^2.3.2"
+    "luxon": "^2.5.2"
   }
 }
