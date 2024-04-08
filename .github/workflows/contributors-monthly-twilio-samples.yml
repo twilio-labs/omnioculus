@@ -21,6 +21,8 @@ jobs:
           #Set an environment variable with the date range
           echo "START_DATE=$start_date" >> "$GITHUB_ENV"
           echo "END_DATE=$end_date" >> "$GITHUB_ENV"
+      - name: Checkout Repository
+        uses: actions/checkout@v4
       - name: Run Contributor Action
         uses: github/contributors@v1
         env:
