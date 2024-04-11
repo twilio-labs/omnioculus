@@ -1,0 +1,51 @@
+name: Issue Metrics (sendgrid/sendgrid-python)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'
+jobs:
+  build:
+    name: Issue Metrics (sendgrid/sendgrid-python)
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get dates for last month
+      shell: bash
+      run: |
+        # Calculate the first day of the previous month
+        first_day=$(date -d "last month" +%Y-%m-01)
+
+        # Calculate the last day of the previous month
+        last_day=$(date -d "$first_day +1 month -1 day" +%Y-%m-%d)
+
+        #Set an environment variable with the date range
+        echo "$first_day..$last_day"
+        echo "last_month=$first_day..$last_day" >> "$GITHUB_ENV"
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+    - name: Run issue-metrics tool
+      uses: github/issue-metrics@v2
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SEARCH_QUERY: 'repo:sendgrid/sendgrid-python is:issue created:${{ env.last_month }}'
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 'latest'
+    - name: Update npm
+      run: npm install -g npm
+    - name: Install dependencies
+      run: npm install
+    - name: Move Generated Metrics File to Storage
+      run: npm run convert:metrics:sendgrid-python
+    - name: Run gr2m/create-or-update-pull-request
+      uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        body: >
+          Monthly metrics report, automatically generated with GitHub Actions.
+        branch: actions/metrics  # Custom branch *just* for this Action.
+        commit-message: 'doc: generate metrics report for sendgrid/sendgrid-python'
+        title: 'doc: generate metrics report'
+        assignees: bnb # change to whoever you want to be assigned to this PR
+        auto-merge: squash
