@@ -43,7 +43,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         body: >
-          Monthly metrics report for sendgrid/sendgrid-nodejs, automatically generated with GitHub Actions.
+          Monthly metrics report, automatically generated with GitHub Actions.
         branch: actions/metrics  # Custom branch *just* for this Action.
         commit-message: 'doc: generate metrics report for sendgrid/sendgrid-nodejs'
         title: 'doc: generate metrics report'

@@ -1,11 +1,11 @@
-name: Issue Metrics (twilio-node)
+name: Issue Metrics (twilio/twilio-node)
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
 jobs:
   build:
-    name: Issue Metrics (twilio-node)
+    name: Issue Metrics (twilio/twilio-node)
     runs-on: ubuntu-latest
     steps:
     - name: Get Dates for Last Month
@@ -43,7 +43,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         body: >
-          Monthly metrics report for twilio/twilio-node, automatically generated with GitHub Actions.
+          Monthly metrics report, automatically generated with GitHub Actions.
         branch: actions/metrics  # Custom branch *just* for this Action.
         commit-message: 'doc: generate metrics report for twilio/twilio-node'
         title: 'doc: generate metrics report'
