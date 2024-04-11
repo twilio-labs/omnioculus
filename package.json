@@ -15,7 +15,8 @@
     "convert:metrics:twilio-python": "node utilities/metrics/twilio-python",
     "convert:metrics:twilio-csharp": "node utilities/metrics/twilio-csharp",
     "convert:metrics:twilio-java": "node utilities/metrics/twilio-java",
-    "convert:metrics:twilio-php": "node utilities/metrics/twilio-php"
+    "convert:metrics:twilio-php": "node utilities/metrics/twilio-php",
+    "convert:metrics:twilio-go": "node utilities/metrics/twilio-go"
   },
   "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
   "license": "MIT",
