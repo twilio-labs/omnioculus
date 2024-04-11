@@ -1,14 +1,14 @@
-name: Issue Metrics (sendgrid/sendgrid-nodejs)
+name: Issue Metrics (twilio/twilio-go)
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
 jobs:
   build:
-    name: Issue Metrics (sendgrid/sendgrid-nodejs)
+    name: Issue Metrics (twilio/twilio-go)
     runs-on: ubuntu-latest
     steps:
-    - name: Get dates for last month
+    - name: Get Dates for Last Month
       shell: bash
       run: |
         # Calculate the first day of the previous month
@@ -22,11 +22,11 @@ jobs:
         echo "last_month=$first_day..$last_day" >> "$GITHUB_ENV"
     - name: Checkout Repository
       uses: actions/checkout@v4
-    - name: Run issue-metrics tool
+    - name: Run issue-metrics Tool
       uses: github/issue-metrics@v2
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SEARCH_QUERY: 'repo:sendgrid/sendgrid-nodejs is:issue created:${{ env.last_month }}'
+        SEARCH_QUERY: 'repo:twilio/twilio-go is:issue created:${{ env.last_month }}'
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
@@ -36,7 +36,7 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Move Generated Metrics File to Storage
-      run: npm run convert:metrics:sendgrid-nodejs
+      run: npm run convert:metrics:twilio-go
     - name: Run gr2m/create-or-update-pull-request
       uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
       env: 
@@ -45,7 +45,7 @@ jobs:
         body: >
           Monthly metrics report, automatically generated with GitHub Actions.
         branch: actions/metrics  # Custom branch *just* for this Action.
-        commit-message: 'doc: generate metrics report for sendgrid/sendgrid-nodejs'
+        commit-message: 'doc: generate metrics report for twilio/twilio-go'
         title: 'doc: generate metrics report'
         assignees: bnb # change to whoever you want to be assigned to this PR
         auto-merge: squash
