@@ -3,7 +3,7 @@
 // rather than creating an issue
 
 const { rename } = require('node:fs/promises')
-const { resolve, basename } = require('node:path');
+const { resolve, basename, extname } = require('node:path');
 const { DateTime } = require('luxon')
 
 // sourceFile should be a filename that we want to rename and move
@@ -21,7 +21,7 @@ async function convertToFileWithDate (sourceFile, outputLocation, prefix) {
     const usableDate = now.toISODate()
 
     // build out the filename for our output file
-    const resolvedOutput = `${resolvedOutputLocation}/${prefix}-${usableDate}.md`
+    const resolvedOutput = `${resolvedOutputLocation}/${prefix}-${usableDate}.${extname(resolvedSource).slice(1)}`
 
     // rename the file from the original name and location to the new name and location
     await rename(resolvedSource, resolvedOutput)
