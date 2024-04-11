@@ -25,6 +25,8 @@ jobs:
         #Set an environment variable with the date range
         echo "$first_day..$last_day"
         echo "last_month=$first_day..$last_day" >> "$GITHUB_ENV"
+    - name: Checkout Repository
+      uses: actions/checkout@v4
     - name: Run issue-metrics Tool
       uses: github/issue-metrics@v2
       env:
