@@ -7,11 +7,11 @@
     "retro:twilio": "node utilities/retros/twilio.js",
     "retro:twilio-labs": "node utilities/retros/twilio-labs.js",
     "retro:twilio-samples": "node utilities/retros/twilio-samples.js",
-    "convert": "npm run convert:contributors",
-    "convert:contributors": "npm run convert:contributors:twilio && npm run convert:contributors:twilio-labs && npm run convert:contributors:twilio-samples",
     "convert:contributors:twilio": "node utilities/convertContributors/twilio.js",
     "convert:contributors:twilio-labs": "node utilities/convertContributors/twilio-labs.js",
-    "convert:contributors:twilio-samples": "node utilities/convertContributors/twilio-samples.js"
+    "convert:contributors:twilio-samples": "node utilities/convertContributors/twilio-samples.js",
+    "convert:metrics:sendgrid-nodejs": "node utilities/metrics/sendgrid-nodejs",
+    "convert:metrics:twilio-node": "node utilities/metrics/twilio-node"
   },
   "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
   "license": "MIT",
