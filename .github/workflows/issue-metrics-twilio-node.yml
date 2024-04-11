@@ -3,11 +3,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
-
-permissions:
-  issues: write
-  pull-requests: read
-
 jobs:
   build:
     name: Issue Metrics (twilio-node)
