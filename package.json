@@ -16,6 +16,7 @@
     "convert:metrics:sendgrid-java": "node utilities/metrics/sendgrid-java",
     "convert:metrics:sendgrid-python": "node utilities/metrics/sendgrid-python",
     "convert:metrics:sendgrid-go": "node utilities/metrics/sendgrid-go",
+    "convert:metrics:sendgrid-ruby": "node utilities/metrics/sendgrid-ruby",
     "convert:metrics:twilio-node": "node utilities/metrics/twilio-node",
     "convert:metrics:twilio-python": "node utilities/metrics/twilio-python",
     "convert:metrics:twilio-csharp": "node utilities/metrics/twilio-csharp",
