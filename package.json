@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Utilities for collecting public information about the public Twilio GitHub organizations",
   "scripts": {
-    "retros": "npm run retro:twilio && npm run retro:twilio-labs && npm run retro:twilio-samples && npm run retro:sendgrid",
     "retro:twilio": "node utilities/retros/twilio.js",
     "retro:twilio-labs": "node utilities/retros/twilio-labs.js",
     "retro:twilio-samples": "node utilities/retros/twilio-samples.js",
@@ -26,7 +25,9 @@
     "convert:metrics:twilio-go": "node utilities/metrics/twilio-go",
     "convert:metrics:twilio-ruby": "node utilities/metrics/twilio-ruby",
     "convert:metrics:twilio-cli": "node utilities/metrics/twilio-cli",
-    "convert:watchtower": "node utilities/watchtower/stale-repo"
+    "convert:watchtower:twilio": "node utilities/watchtower/twilio",
+    "convert:watchtower:twilio-labs": "node utilities/watchtower/twilio-labs",
+    "convert:watchtower:twilio-samples": "node utilities/watchtower/twilio-samples"
   },
   "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
   "license": "MIT",
