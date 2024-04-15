@@ -1,4 +1,4 @@
-name: Generate Retro
+name: Generate Retro (Twilio)
 on:
   schedule:
     # Run once a week at 00:00 AM UTC on Sunday.
@@ -10,15 +10,15 @@ jobs:
   generate_retro:
     runs-on: ubuntu-latest
     steps:
-      - name: run cloner
+      - name: Checkout Repository
         uses: actions/checkout@v4
-      - name: run install
+      - name: Run npm install
         run: npm install
-      - name: run generator
-        run: npm run generate # Run the generation tools
+      - name: Run npm run retro:twilio
+        run: npm run retro:twilio # Run the generation tools
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: run create/update pull request
+      - name: Run gr2m/create-or-update-pull-request
         uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,4 +1,4 @@
-name: Stale Repo Watchtower
+name: Stale Repo Watchtower (Twilio)
 on:
   workflow_dispatch:
   schedule:
@@ -7,16 +7,13 @@ jobs:
   build:
     name: Stale Repo Watchtower
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        org: [twilio, twilio-labs, twilio-samples]
     steps:
     - uses: actions/checkout@v4
     - name: Run stale-repos Tool
       uses: github/stale-repos@v1
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ORGANIZATION: ${{ matrix.org }}
+        ORGANIZATION: twilio
         INACTIVE_DAYS: 182
         ACTIVITY_METHOD: "pushed"
     - name: Setup Node.js
@@ -28,7 +25,7 @@ jobs:
     - name: Install Dependencies
       run: npm install
     - name: Move Watchtower Report File to Storage
-      run: npm run convert:watchtower
+      run: npm run convert:watchtower:twilio
     - name: Run gr2m/create-or-update-pull-request
       uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
       env: 
