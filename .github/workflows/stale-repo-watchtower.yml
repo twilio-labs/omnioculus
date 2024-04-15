@@ -1,42 +1,43 @@
 name: Stale Repo Watchtower
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 1 * *'
-
 jobs:
   build:
     name: Stale Repo Watchtower
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        org: [twilio, twilio-labs]
-
+        org: [twilio, twilio-labs, twilio-samples]
     steps:
     - uses: actions/checkout@v4
-
-    - name: Run stale_repos tool
+    - name: Run stale-repos Tool
       uses: github/stale-repos@v1
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ORGANIZATION: ${{ matrix.org }}
         INACTIVE_DAYS: 182
         ACTIVITY_METHOD: "pushed"
-
-    # This next step updates an existing issue. If you want a new issue every time, remove this step and remove the `issue-number: ${{ env.issue_number }}` line below.
-    - name: Check for the stale report issue
-      run: |
-        ISSUE_NUMBER=$(gh search issues "Stale Repository Watchtower Report (Twilio)" --match title --json number --jq ".[0].number")
-        echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_ENV"
-      env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Create issue
-      uses: peter-evans/create-issue-from-file@v5
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
       with:
-        issue-number: ${{ env.issue_number }}
-        title: Stale Repository Watchtower Report (Twilio)
-        content-filepath: ./stale_repos.md
-        assignees: bnb
-        token: ${{ secrets.GITHUB_TOKEN }}
+        node-version: 'latest'
+    - name: Update npm
+      run: npm install -g npm
+    - name: Install Dependencies
+      run: npm install
+    - name: Move Watchtower Report File to Storage
+      run: npm run convert:watchtower
+    - name: Run gr2m/create-or-update-pull-request
+      uses: gr2m/create-or-update-pull-request-action@v1 # Create a PR or update the Action's existing PR
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        body: >
+          Monthly Watchtower report, automatically generated with GitHub Actions.
+        branch: actions/metrics  # Custom branch *just* for this Action.
+        commit-message: 'doc: generate watchtower report'
+        title: 'doc: generate watchtower report'
+        assignees: bnb # change to whoever you want to be assigned to this PR
+        auto-merge: squash

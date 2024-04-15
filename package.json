@@ -25,7 +25,8 @@
     "convert:metrics:twilio-php": "node utilities/metrics/twilio-php",
     "convert:metrics:twilio-go": "node utilities/metrics/twilio-go",
     "convert:metrics:twilio-ruby": "node utilities/metrics/twilio-ruby",
-    "convert:metrics:twilio-cli": "node utilities/metrics/twilio-cli"
+    "convert:metrics:twilio-cli": "node utilities/metrics/twilio-cli",
+    "convert:watchtower": "node utilities/watchtower/stale-repo"
   },
   "author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
   "license": "MIT",
