@@ -1,47 +1,47 @@
 {
-    "average_time_to_first_response": "6 days, 3:54:04",
-    "average_time_to_close": "13 days, 15:52:23",
-    "average_time_to_answer": "None",
-    "average_time_in_labels": {},
-    "median_time_to_first_response": "6 days, 3:54:04",
-    "median_time_to_close": "13 days, 15:52:23",
-    "median_time_to_answer": "None",
-    "median_time_in_labels": {},
-    "90_percentile_time_to_first_response": "6 days, 3:54:04",
-    "90_percentile_time_to_close": "13 days, 15:52:23",
-    "90_percentile_time_to_answer": "None",
-    "90_percentile_time_in_labels": {},
-    "num_items_opened": 2,
-    "num_items_closed": 1,
-    "total_item_count": 3,
-    "issues": [
-        {
-            "title": "test issue for slack integration",
-            "html_url": "https://github.com/twilio/twilio-java/issues/787",
-            "author": "sbansla",
-            "time_to_first_response": "None",
-            "time_to_close": "None",
-            "time_to_answer": "None",
-            "label_metrics": {}
-        },
-        {
-            "title": "Impossible to use twilio sdk in sbt 1.9.8 Scala 3.3.1, Mac OS Sonoma 14.0",
-            "html_url": "https://github.com/twilio/twilio-java/issues/783",
-            "author": "CodeCombiner",
-            "time_to_first_response": "None",
-            "time_to_close": "None",
-            "time_to_answer": "None",
-            "label_metrics": {}
-        },
-        {
-            "title": "Release 10 dropped support for range queries on the MessageReader",
-            "html_url": "https://github.com/twilio/twilio-java/issues/782",
-            "author": "zwalsh-toast",
-            "time_to_first_response": "6 days, 3:54:04",
-            "time_to_close": "13 days, 15:52:23",
-            "time_to_answer": "None",
-            "label_metrics": {}
-        }
-    ],
-    "search_query": "repo:twilio/twilio-java is:issue created:2024-03-01..2024-03-31"
+	"average_time_to_first_response": "6 days, 3:54:04",
+	"average_time_to_close": "13 days, 15:52:23",
+	"average_time_to_answer": "None",
+	"average_time_in_labels": {},
+	"median_time_to_first_response": "6 days, 3:54:04",
+	"median_time_to_close": "13 days, 15:52:23",
+	"median_time_to_answer": "None",
+	"median_time_in_labels": {},
+	"90_percentile_time_to_first_response": "6 days, 3:54:04",
+	"90_percentile_time_to_close": "13 days, 15:52:23",
+	"90_percentile_time_to_answer": "None",
+	"90_percentile_time_in_labels": {},
+	"num_items_opened": 2,
+	"num_items_closed": 1,
+	"total_item_count": 3,
+	"issues": [
+		{
+			"title": "test issue for slack integration",
+			"html_url": "https://github.com/twilio/twilio-java/issues/787",
+			"author": "sbansla",
+			"time_to_first_response": "None",
+			"time_to_close": "None",
+			"time_to_answer": "None",
+			"label_metrics": {}
+		},
+		{
+			"title": "Impossible to use twilio sdk in sbt 1.9.8 Scala 3.3.1, Mac OS Sonoma 14.0",
+			"html_url": "https://github.com/twilio/twilio-java/issues/783",
+			"author": "CodeCombiner",
+			"time_to_first_response": "None",
+			"time_to_close": "None",
+			"time_to_answer": "None",
+			"label_metrics": {}
+		},
+		{
+			"title": "Release 10 dropped support for range queries on the MessageReader",
+			"html_url": "https://github.com/twilio/twilio-java/issues/782",
+			"author": "zwalsh-toast",
+			"time_to_first_response": "6 days, 3:54:04",
+			"time_to_close": "13 days, 15:52:23",
+			"time_to_answer": "None",
+			"label_metrics": {}
+		}
+	],
+	"search_query": "repo:twilio/twilio-java is:issue created:2024-03-01..2024-03-31"
 }
