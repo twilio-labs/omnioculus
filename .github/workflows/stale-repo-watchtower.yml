@@ -36,7 +36,7 @@ jobs:
       with:
         body: >
           Monthly Watchtower report, automatically generated with GitHub Actions.
-        branch: actions/metrics  # Custom branch *just* for this Action.
+        branch: actions/watchtower  # Custom branch *just* for this Action.
         commit-message: 'doc: generate watchtower report'
         title: 'doc: generate watchtower report'
         assignees: bnb # change to whoever you want to be assigned to this PR
