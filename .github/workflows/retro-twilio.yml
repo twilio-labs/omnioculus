@@ -27,7 +27,7 @@ jobs:
             Here's a new retro, automatically generated with
             GitHub Actions and `@retrogen/generate`.
           branch: actions/retrogen  # Custom branch *just* for this Action.
-          commit-message: 'doc: generate retro'
+          commit-message: 'doc: generate twilio retro'
           title: 'doc: generate retro'
           assignees: bnb # change to whoever you want to be assigned to this PR
           auto-merge: squash
