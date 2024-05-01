@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "4 days, 7:00:42",
+    "average_time_to_close": "2 days, 6:10:50",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "4 days, 7:00:42",
+    "median_time_to_close": "2 days, 6:10:50",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "7 days, 1:36:30",
+    "90_percentile_time_to_close": "2 days, 6:10:50",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Add automatic retry support for 429 responses",
+            "html_url": "https://github.com/twilio/twilio-go/issues/247",
+            "author": "dremin",
+            "time_to_first_response": "7 days, 18:15:27",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "MockBaseClient broken by 1.20.0 update which changed the function signature of SendRequest",
+            "html_url": "https://github.com/twilio/twilio-go/issues/244",
+            "author": "saurori",
+            "time_to_first_response": "19:45:57",
+            "time_to_close": "2 days, 6:10:50",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2024-04-01..2024-04-30"
+}
