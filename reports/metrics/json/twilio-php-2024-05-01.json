@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "12:19:06",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "12:19:06",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "22:09:58",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 2,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Object of class Twilio\\Rest\\Conversations\\V1\\Conversation\\ParticipantInstance could not be converted to int",
+            "html_url": "https://github.com/twilio/twilio-php/issues/806",
+            "author": "waelkhalifa",
+            "time_to_first_response": "None",
+            "time_to_close": "1 day, 0:37:41",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Official support for PHP 8.2 and 8.3",
+            "html_url": "https://github.com/twilio/twilio-php/issues/804",
+            "author": "adrianbj",
+            "time_to_first_response": "None",
+            "time_to_close": "0:00:32",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-php is:issue created:2024-04-01..2024-04-30"
+}
