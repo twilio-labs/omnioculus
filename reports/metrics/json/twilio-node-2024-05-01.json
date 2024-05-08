@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "7:30:34",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "7:30:34",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "7:30:34",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Missing required parameter error when updating factor in `verify.v2`",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1019",
+            "author": "yifanplanet",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Unable to import Twilio",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1016",
+            "author": "Manbearpixel",
+            "time_to_first_response": "7:30:34",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Right-hand side of 'instanceof' is not an object for token.toJwt() (next.js)",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1015",
+            "author": "MarkovskiyKonstantin",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2024-04-01..2024-04-30"
+}

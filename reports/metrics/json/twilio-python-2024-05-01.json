@@ -1,0 +1,74 @@
+{
+    "average_time_to_first_response": "6 days, 10:34:58",
+    "average_time_to_close": "5 days, 22:01:46",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "6 days, 23:12:54",
+    "median_time_to_close": "5 days, 22:01:46",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "11 days, 8:52:09",
+    "90_percentile_time_to_close": "10 days, 15:25:17",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 4,
+    "num_items_closed": 2,
+    "total_item_count": 6,
+    "issues": [
+        {
+            "title": "9.0.5: documentation no longer builds",
+            "html_url": "https://github.com/twilio/twilio-python/issues/790",
+            "author": "kloczek",
+            "time_to_first_response": "3 days, 14:51:02",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "class AsyncTwilioHttpClient takes \"proxy_url\" parameter, but does not use it for anything.",
+            "html_url": "https://github.com/twilio/twilio-python/issues/788",
+            "author": "skyler-guha",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Can't query daily usage records for subaccounts",
+            "html_url": "https://github.com/twilio/twilio-python/issues/787",
+            "author": "oleg-agapov",
+            "time_to_first_response": "10 days, 7:34:46",
+            "time_to_close": "11 days, 19:46:10",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Add update and remove operations to  client.studio.v2.flows.update",
+            "html_url": "https://github.com/twilio/twilio-python/issues/786",
+            "author": "allavytalize",
+            "time_to_first_response": "11 days, 19:42:27",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Subaccount Ignored Using Main Account Authentication for TFV ",
+            "html_url": "https://github.com/twilio/twilio-python/issues/785",
+            "author": "calebsyring",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Can't get past 24h calls from API ",
+            "html_url": "https://github.com/twilio/twilio-python/issues/784",
+            "author": "Andreluizfc",
+            "time_to_first_response": "0:11:35",
+            "time_to_close": "0:17:21",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2024-04-01..2024-04-30"
+}
