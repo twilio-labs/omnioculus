@@ -2,7 +2,7 @@ name: Stale Repo Watchtower (Twilio Samples)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 21 1 * *'
 jobs:
   build:
     name: Stale Repo Watchtower

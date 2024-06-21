@@ -2,7 +2,7 @@ name: Monthly Contributor Report (Twilio Labs)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 2 1 * *'
 
 jobs:
   contributor_report:
