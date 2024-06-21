@@ -2,7 +2,7 @@ name: Issue Metrics (twilio/twilio-csharp)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 6 1 * *'
 jobs:
   build:
     name: Issue Metrics (twilio/twilio-csharp)
