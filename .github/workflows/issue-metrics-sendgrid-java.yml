@@ -2,7 +2,7 @@ name: Issue Metrics (sendgrid/sendgrid-java)
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 4 1 * *'
 jobs:
   build:
     name: Issue Metrics (sendgrid/sendgrid-java)
