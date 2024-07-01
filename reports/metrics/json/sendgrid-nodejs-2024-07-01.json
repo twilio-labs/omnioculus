@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "1:14:59",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "1:14:59",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "1:14:59",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 1,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "Inline Attachments + Transactional Templates = broken email",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1404",
+            "author": "thexeos",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Which key do I have to use?",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1403",
+            "author": "batyahuz",
+            "time_to_first_response": "None",
+            "time_to_close": "1:14:59",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Remove emails from global suppression list",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1401",
+            "author": "rschlack",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Impossible to run @sendgrid/mail in Bun environment",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1400",
+            "author": "qlaffont",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-nodejs is:issue created:2024-06-01..2024-06-30"
+}
