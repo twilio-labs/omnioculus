@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "18:48:22",
+    "average_time_to_close": "3 days, 10:35:28",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "18:48:22",
+    "median_time_to_close": "3 days, 10:35:28",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "18:48:22",
+    "90_percentile_time_to_close": "3 days, 10:35:28",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Sending SMS fails after upgrading to `1.22.0`",
+            "html_url": "https://github.com/twilio/twilio-go/issues/251",
+            "author": "wung-s",
+            "time_to_first_response": "18:48:22",
+            "time_to_close": "3 days, 10:35:28",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "400 when creating Studio Flow executions",
+            "html_url": "https://github.com/twilio/twilio-go/issues/250",
+            "author": "fterrag",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2024-06-01..2024-06-30"
+}
