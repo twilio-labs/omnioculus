@@ -1,0 +1,42 @@
+{
+    "start_date": "2024-08-01",
+    "end_date": "2024-08-31",
+    "organization": "twilio-samples",
+    "repository_list": [],
+    "sponsor_info": false,
+    "link_to_profile": false,
+    "contributors": [
+        {
+            "username": "IObert",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
+            "contribution_count": 131,
+            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2024-08-01&until=2024-08-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "AlbertMukarsel",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/55022826?v=4",
+            "contribution_count": 2,
+            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=AlbertMukarsel&since=2024-08-01&until=2024-08-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "dprothero",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1897006?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=dprothero&since=2024-08-01&until=2024-08-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "cmsunu28",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/5984003?v=4",
+            "contribution_count": 3,
+            "commit_url": "https://github.com/twilio-samples/sms-phone-verification-csharp/commits?author=cmsunu28&since=2024-08-01&until=2024-08-31",
+            "sponsor_info": ""
+        }
+    ]
+}
