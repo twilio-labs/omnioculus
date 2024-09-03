@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "3:13:06",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "3:13:06",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "3:13:06",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 1,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "Composer error when using Sendgrid without composer",
+            "html_url": "https://github.com/sendgrid/sendgrid-php/issues/1113",
+            "author": "warpdesign",
+            "time_to_first_response": "None",
+            "time_to_close": "3:13:06",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-php is:issue created:2024-08-01..2024-08-31"
+}
