@@ -30,7 +30,9 @@
 		"retro:twilio": "node utilities/retros/twilio.js",
 		"retro:twilio-labs": "node utilities/retros/twilio-labs.js",
 		"retro:twilio-samples": "node utilities/retros/twilio-samples.js",
-		"retro:sendgrid": "node utilities/retros/sendgrid.js"
+		"retro:sendgrid": "node utilities/retros/sendgrid.js",
+		"updates:check": "npx npm-check-updates",
+		"updates:apply": "npx npm-check-updates -u"
 	},
 	"author": "Tierney Cyren <tcyren@twilio.com> (https://twilio.com)",
 	"license": "MIT",
