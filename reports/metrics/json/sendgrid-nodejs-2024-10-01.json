@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "0:00:48",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "0:00:48",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "0:00:48",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Documentation Issue for API Reference",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1417",
+            "author": "dambrogia",
+            "time_to_first_response": "None",
+            "time_to_close": "0:00:48",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "@sendgrid/mail not sending email after upgrade",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1416",
+            "author": "saniyusuf",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-nodejs is:issue created:2024-09-01..2024-09-30"
+}
