@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "20:44:22",
+    "average_time_to_close": "27 days, 2:21:48",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "20:44:22",
+    "median_time_to_close": "27 days, 2:21:48",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "20:44:22",
+    "90_percentile_time_to_close": "27 days, 2:21:48",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "fresh twilio-cli installation, and trying to create  a typescript project has type errors",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/611",
+            "author": "Haiz14",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "APT installation failing due to unsigned repository",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/610",
+            "author": "BOTPaul",
+            "time_to_first_response": "20:44:22",
+            "time_to_close": "27 days, 2:21:48",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-cli is:issue created:2024-10-01..2024-10-31"
+}
