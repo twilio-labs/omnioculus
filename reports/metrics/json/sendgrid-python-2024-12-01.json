@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "5:43:27",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "5:43:27",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "5:43:27",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Dependency starkbank-ecdsa does not provide a wheel, could you move to a library that provides wheels or maybe allow people to choose as an optional dependency?",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1096",
+            "author": "petarlishov",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "HTML cutoff half way through",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1095",
+            "author": "tenzotom",
+            "time_to_first_response": "None",
+            "time_to_close": "5:43:27",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-python is:issue created:2024-11-01..2024-11-30"
+}
