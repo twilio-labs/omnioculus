@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "15 days, 7:37:42",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "15 days, 7:37:42",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "15 days, 7:37:42",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 0,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "System.MissingMethodException when ITwilioRestClient created via DI",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/768",
+            "author": "keltex",
+            "time_to_first_response": "15 days, 7:37:42",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Can you target .netstandard 20?",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/766",
+            "author": "oliverjanik",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-csharp is:issue created:2024-11-01..2024-11-30"
+}
