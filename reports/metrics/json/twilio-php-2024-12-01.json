@@ -1,0 +1,65 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 5,
+    "num_items_closed": 0,
+    "total_item_count": 5,
+    "issues": [
+        {
+            "title": "Pageable sdk methods for none pageable Twilio endpoints. Possible loop",
+            "html_url": "https://github.com/twilio/twilio-php/issues/833",
+            "author": "ruslanlazin",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Label not being applied on participant after conference is created",
+            "html_url": "https://github.com/twilio/twilio-php/issues/832",
+            "author": "johnpaulmedina",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Possible to split the library to twilio/messaging twilio/email instead of everything in one package",
+            "html_url": "https://github.com/twilio/twilio-php/issues/831",
+            "author": "n-for-all",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "With the current sdk version, no template name is assigned when creating a template",
+            "html_url": "https://github.com/twilio/twilio-php/issues/828",
+            "author": "Nikolay-Kurdoglo",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Would be nice if you separate classes from ConentModels.php to different files for composer autoload.",
+            "html_url": "https://github.com/twilio/twilio-php/issues/827",
+            "author": "Nikolay-Kurdoglo",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-php is:issue created:2024-11-01..2024-11-30"
+}
