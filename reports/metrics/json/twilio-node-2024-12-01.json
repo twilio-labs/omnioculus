@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "19 days, 20:28:25",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "19 days, 20:28:25",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "19 days, 20:28:25",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 0,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "[Feature Request]: support create specificated service to make code tree shakable",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1044",
+            "author": "Sczlog",
+            "time_to_first_response": "19 days, 20:28:25",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2024-11-01..2024-11-30"
+}
