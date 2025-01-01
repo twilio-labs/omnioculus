@@ -1,9 +1,106 @@
 {
     "start_date": "2024-12-01",
     "end_date": "2024-12-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
-    "contributors": []
+    "contributors": [
+        {
+            "username": "Swimburger",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3382717?v=4",
+            "contribution_count": 210,
+            "commit_url": "https://github.com/twilio-labs/twilio-aspnet/commits?author=Swimburger&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "AJLange",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/6756830?v=4",
+            "contribution_count": 17,
+            "commit_url": "https://github.com/twilio-labs/twilio-aspnet/commits?author=AJLange&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "snyk-bot",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/19733683?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/twilio-aspnet/commits?author=snyk-bot&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "makserik",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/15821542?v=4",
+            "contribution_count": 13,
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=makserik&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "AndreLars",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/26588283?v=4",
+            "contribution_count": 2,
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=AndreLars&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "Th3R3p0",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/7598178?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=Th3R3p0&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "TwilioPasteBot",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/62629820?v=4",
+            "contribution_count": 448,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=TwilioPasteBot&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "nkrantz",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/75342690?v=4",
+            "contribution_count": 176,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=nkrantz&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "serifluous",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3821840?v=4",
+            "contribution_count": 100,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=serifluous&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "krisantrobus",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/55083528?v=4",
+            "contribution_count": 42,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=krisantrobus&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "PixeledCode",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/22215209?v=4",
+            "contribution_count": 21,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=PixeledCode&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "bnb",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/502396?v=4",
+            "contribution_count": 8,
+            "commit_url": "https://github.com/twilio-labs/actions-sms/commits?author=bnb&since=2024-12-01&until=2024-12-31",
+            "sponsor_info": ""
+        }
+    ]
 }
