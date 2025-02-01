@@ -1,0 +1,65 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 5,
+    "num_items_closed": 0,
+    "total_item_count": 5,
+    "issues": [
+        {
+            "title": "Twilio SDK Not Validating Signature",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1068",
+            "author": "dcaponi",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Vulnerability in twilio-package (version 5.3.0) - CVE-2024-12345 CWE-79 CVSS 5.3",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1067",
+            "author": "jasvinder-singh-ca",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Update README to reflect support for Node 22 LTS",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1066",
+            "author": "ejaxon",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Supplying Items to a list template does not work (validation errors)",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1065",
+            "author": "rozzrr",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug]: Debug logging is not functional",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1062",
+            "author": "ari-at-backbone",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-01-01..2025-01-31"
+}
