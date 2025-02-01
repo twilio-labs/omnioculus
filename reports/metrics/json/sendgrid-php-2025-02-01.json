@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "1:04:19",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "1:04:19",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "1:04:19",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 1,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "PHP 8.4.2 Warnings because of starkbank/ecdsa dependency",
+            "html_url": "https://github.com/sendgrid/sendgrid-php/issues/1117",
+            "author": "bobahvas",
+            "time_to_first_response": "None",
+            "time_to_close": "1:04:19",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-php is:issue created:2025-01-01..2025-01-31"
+}
