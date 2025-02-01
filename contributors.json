@@ -1,81 +1,73 @@
 {
     "start_date": "2025-01-01",
     "end_date": "2025-01-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
     "contributors": [
         {
-            "username": "mvazquezrius",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/150004522?v=4",
-            "contribution_count": 14,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=mvazquezrius&since=2025-01-01&until=2025-01-31",
+            "username": "IObert",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
+            "contribution_count": 148,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "benparj98",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/109106005?v=4",
+            "username": "nokenwa",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/23080261?v=4",
             "contribution_count": 4,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=benparj98&since=2025-01-01&until=2025-01-31",
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=nokenwa&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "jme783",
+            "username": "AndreLars",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/4605360?v=4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/26588283?v=4",
             "contribution_count": 3,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=jme783&since=2025-01-01&until=2025-01-31",
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=AndreLars&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "CristhianMotoche",
+            "username": "Moopinger",
             "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/8370088?v=4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/60342347?v=4",
             "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=CristhianMotoche&since=2025-01-01&until=2025-01-31",
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=Moopinger&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "bermudezmt",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/5844484?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=bermudezmt&since=2025-01-01&until=2025-01-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "ndharwadkar-twilio",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/97191072?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=ndharwadkar-twilio&since=2025-01-01&until=2025-01-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "pkamp3",
+            "username": "TwilioPasteBot",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/24463442?v=4",
-            "contribution_count": 26,
-            "commit_url": "https://github.com/twilio-samples/speech-assistant-openai-realtime-api-node/commits?author=pkamp3&since=2025-01-01&until=2025-01-31, https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python/commits?author=pkamp3&since=2025-01-01&until=2025-01-31",
+            "avatar_url": "https://avatars.githubusercontent.com/u/62629820?v=4",
+            "contribution_count": 449,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=TwilioPasteBot&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "nmogil-tw",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/192121698?v=4",
-            "contribution_count": 70,
-            "commit_url": "https://github.com/twilio-samples/ai-assistant-demo-owl-shoes/commits?author=nmogil-tw&since=2025-01-01&until=2025-01-31",
+            "username": "nkrantz",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/75342690?v=4",
+            "contribution_count": 178,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=nkrantz&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         },
         {
-            "username": "dkundel",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/1505101?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/ai-assistant-demo-owl-shoes/commits?author=dkundel&since=2025-01-01&until=2025-01-31",
+            "username": "serifluous",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3821840?v=4",
+            "contribution_count": 101,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=serifluous&since=2025-01-01&until=2025-01-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "krisantrobus",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/55083528?v=4",
+            "contribution_count": 48,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=krisantrobus&since=2025-01-01&until=2025-01-31",
             "sponsor_info": ""
         }
     ]
