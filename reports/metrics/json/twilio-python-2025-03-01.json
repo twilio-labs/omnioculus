@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "20 days, 16:03:58",
+    "average_time_to_close": "2 days, 3:29:40",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "20 days, 16:03:58",
+    "median_time_to_close": "2 days, 3:29:40",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "20 days, 16:03:58",
+    "90_percentile_time_to_close": "2 days, 3:29:40",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Feature Request: Creating a Twilio account",
+            "html_url": "https://github.com/twilio/twilio-python/issues/846",
+            "author": "Diego-G-R",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Incorrect readme details on how to use the edge and region especially when using this for region",
+            "html_url": "https://github.com/twilio/twilio-python/issues/841",
+            "author": "ycheng24",
+            "time_to_first_response": "None",
+            "time_to_close": "2 days, 3:29:40",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "How do I download an image with authentication?",
+            "html_url": "https://github.com/twilio/twilio-python/issues/840",
+            "author": "brycepg",
+            "time_to_first_response": "20 days, 16:03:58",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-02-01..2025-02-28"
+}
