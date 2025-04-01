@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "0:08:12",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:08:12",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:08:12",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Fix setuptools >= 78 incompatiblity",
+            "html_url": "https://github.com/twilio/twilio-python/issues/854",
+            "author": "ssledzie",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "How twilio handle inbound and outbound calls simultaneously.",
+            "html_url": "https://github.com/twilio/twilio-python/issues/852",
+            "author": "rana-dev-py",
+            "time_to_first_response": "0:08:12",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Feature Request: Message Pricing api to show data for the MMS costs.",
+            "html_url": "https://github.com/twilio/twilio-python/issues/849",
+            "author": "sushan531",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-03-01..2025-03-31"
+}
