@@ -1,0 +1,74 @@
+{
+    "average_time_to_first_response": "7:25:59",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "7:25:59",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "7:25:59",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 6,
+    "num_items_closed": 0,
+    "total_item_count": 6,
+    "issues": [
+        {
+            "title": "21656: The ContentVariables Parameter is invalid",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1082",
+            "author": "lonelywolf4git",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Body return as empty string when calling messages.create with contentSid and messagingServiceSid",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1081",
+            "author": "RubenGeo",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "twilio.webhook() returning unauthorized although TWILIO_AUTH_TOKEN is set",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1080",
+            "author": "gborobio73",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "validateRequest  is not returning true cause of query parameter changes from twilio.",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1079",
+            "author": "chaker89",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug]: Sync Map retrieval errors on URLs as keys",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1077",
+            "author": "Blackglade",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug] Invalid types in last update",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1076",
+            "author": "codygordon",
+            "time_to_first_response": "7:25:59",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-03-01..2025-03-31"
+}

@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "0:05:11",
+    "average_time_to_close": "0:05:11",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:05:11",
+    "median_time_to_close": "0:05:11",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:05:11",
+    "90_percentile_time_to_close": "0:05:11",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Trust Hub v3 SDK",
+            "html_url": "https://github.com/twilio/twilio-php/issues/855",
+            "author": "mason-rogers",
+            "time_to_first_response": "0:05:11",
+            "time_to_close": "0:05:11",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Using Twilio RESTAPI SID instead of Account SID failed",
+            "html_url": "https://github.com/twilio/twilio-php/issues/850",
+            "author": "sfDonny",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-php is:issue created:2025-03-01..2025-03-31"
+}
