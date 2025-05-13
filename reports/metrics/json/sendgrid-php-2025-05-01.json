@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "10:59:51",
+    "average_time_to_close": "1 day, 9:59:55",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:29:34",
+    "median_time_to_close": "1 day, 9:59:55",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "1 day, 1:54:25",
+    "90_percentile_time_to_close": "2 days, 13:00:21",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 2,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "SendGrid::send() fails with Mail object due to type mismatch in Client::makeRequest()",
+            "html_url": "https://github.com/sendgrid/sendgrid-php/issues/1125",
+            "author": "GOvidiu20",
+            "time_to_first_response": "0:14:22",
+            "time_to_close": "0:14:22",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "SendGrid\\\\Client::makeRequest(): Argument #3 ($body) must be of type ?array, SendGrid\\\\Mail\\\\Mail give",
+            "html_url": "https://github.com/sendgrid/sendgrid-php/issues/1124",
+            "author": "AdamDomafoldi",
+            "time_to_first_response": "0:29:34",
+            "time_to_close": "2 days, 19:45:28",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Compatibility issues with PHP 8.4",
+            "html_url": "https://github.com/sendgrid/sendgrid-php/issues/1122",
+            "author": "Whip",
+            "time_to_first_response": "1 day, 8:15:38",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-php is:issue created:2025-04-01..2025-04-30"
+}

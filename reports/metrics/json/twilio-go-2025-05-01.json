@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "3:39:53",
+    "average_time_to_close": "13:01:26",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "3:32:34",
+    "median_time_to_close": "7:07:42",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "6:40:20",
+    "90_percentile_time_to_close": "1 day, 3:36:38",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 4,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "Request for New Tag to Include golang-jwt v5.2.2 Security Fix",
+            "html_url": "https://github.com/twilio/twilio-go/issues/284",
+            "author": "erikivo",
+            "time_to_first_response": "5:37:35",
+            "time_to_close": "7:08:56",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Plan for v1.25.2",
+            "html_url": "https://github.com/twilio/twilio-go/issues/283",
+            "author": "jose-gh",
+            "time_to_first_response": "1:27:33",
+            "time_to_close": "1:27:33",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Security Vulnerability in github.com/golang-jwt/jwt",
+            "html_url": "https://github.com/twilio/twilio-go/issues/278",
+            "author": "sigi-glovebox",
+            "time_to_first_response": "7:07:14",
+            "time_to_close": "7:06:27",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "version 1.25.0 throws error when using rest",
+            "html_url": "https://github.com/twilio/twilio-go/issues/276",
+            "author": "fly-tatala",
+            "time_to_first_response": "0:27:11",
+            "time_to_close": "1 day, 12:22:48",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2025-04-01..2025-04-30"
+}

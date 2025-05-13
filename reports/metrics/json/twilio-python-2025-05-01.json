@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "6 days, 5:39:03",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "6 days, 5:39:03",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "6 days, 5:39:03",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 0,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "[BUG] self.client in a function instead of class",
+            "html_url": "https://github.com/twilio/twilio-python/issues/856",
+            "author": "Ismael144",
+            "time_to_first_response": "6 days, 5:39:03",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-04-01..2025-04-30"
+}
