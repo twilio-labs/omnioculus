@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "2 days, 10:07:37",
+    "average_time_to_close": "6 days, 23:01:21",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "2 days, 10:07:37",
+    "median_time_to_close": "6 days, 23:01:21",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "3 days, 20:43:01",
+    "90_percentile_time_to_close": "6 days, 23:01:21",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "MockBaseClient missing method OAuth in 1.26.0+",
+            "html_url": "https://github.com/twilio/twilio-go/issues/288",
+            "author": "KrisKennawayDD",
+            "time_to_first_response": "14:53:22",
+            "time_to_close": "6 days, 23:01:21",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "V1VideoClient - Unable to set RecordingRules while creating Room",
+            "html_url": "https://github.com/twilio/twilio-go/issues/286",
+            "author": "hongtran-anzx",
+            "time_to_first_response": "4 days, 5:21:52",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2025-05-01..2025-05-31"
+}
