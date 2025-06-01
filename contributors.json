@@ -1,7 +1,7 @@
 {
     "start_date": "2025-05-01",
     "end_date": "2025-05-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
@@ -10,24 +10,80 @@
             "username": "IObert",
             "new_contributor": false,
             "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
-            "contribution_count": 210,
-            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2025-05-01&until=2025-05-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "ktalebian",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
-            "contribution_count": 7,
-            "commit_url": "https://github.com/twilio-samples/openai-mcp-samples/commits?author=ktalebian&since=2025-05-01&until=2025-05-31",
+            "contribution_count": 270,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-05-01&until=2025-05-31, https://github.com/twilio-labs/twiml-i18n/commits?author=IObert&since=2025-05-01&until=2025-05-31",
             "sponsor_info": ""
         },
         {
             "username": "bpartridge83",
             "new_contributor": true,
             "avatar_url": "https://avatars.githubusercontent.com/u/126483?v=4",
-            "contribution_count": 2,
-            "commit_url": "https://github.com/twilio-samples/openai-mcp-samples/commits?author=bpartridge83&since=2025-05-01&until=2025-05-31",
+            "contribution_count": 15,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=bpartridge83&since=2025-05-01&until=2025-05-31, https://github.com/twilio-labs/mcp/commits?author=bpartridge83&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "pkamp3",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/24463442?v=4",
+            "contribution_count": 7,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=pkamp3&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "dprothero",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/1897006?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=dprothero&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "TwilioPasteBot",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/62629820?v=4",
+            "contribution_count": 455,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=TwilioPasteBot&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "nkrantz",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/75342690?v=4",
+            "contribution_count": 182,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=nkrantz&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "serifluous",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3821840?v=4",
+            "contribution_count": 104,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=serifluous&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "krisantrobus",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/55083528?v=4",
+            "contribution_count": 60,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=krisantrobus&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "PixeledCode",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/22215209?v=4",
+            "contribution_count": 31,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=PixeledCode&since=2025-05-01&until=2025-05-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "ktalebian",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
+            "contribution_count": 87,
+            "commit_url": "https://github.com/twilio-labs/mcp/commits?author=ktalebian&since=2025-05-01&until=2025-05-31",
             "sponsor_info": ""
         }
     ]
