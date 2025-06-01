@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Heap outage when creating email messages as JSON",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1437",
+            "author": "malee1975",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Scheduled emails always get blocked by yahoo and gmail",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1436",
+            "author": "JuhaszBalint2",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "sg_event_id changes on retries \u2014 making it useless for deduplication",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1435",
+            "author": "linoygabay",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-nodejs is:issue created:2025-05-01..2025-05-31"
+}
