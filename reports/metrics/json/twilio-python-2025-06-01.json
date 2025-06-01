@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "6:22:43",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "6:22:43",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "6:22:43",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Twilio and byoc usage\n, as follow, is this a current example?",
+            "html_url": "https://github.com/twilio/twilio-python/issues/861",
+            "author": "zwong91",
+            "time_to_first_response": "None",
+            "time_to_close": "6:22:43",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] barge_in Argument in <Gather> Verb Not Functioning",
+            "html_url": "https://github.com/twilio/twilio-python/issues/860",
+            "author": "mbuser03",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-05-01..2025-05-31"
+}
