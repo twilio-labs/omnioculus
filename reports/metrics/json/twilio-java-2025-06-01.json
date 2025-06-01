@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "0:45:04",
+    "average_time_to_close": "5:41:55",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:45:04",
+    "median_time_to_close": "5:41:55",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:55:14",
+    "90_percentile_time_to_close": "5:41:55",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "twilio-java relies on EOL HttpCore library",
+            "html_url": "https://github.com/twilio/twilio-java/issues/861",
+            "author": "skradel",
+            "time_to_first_response": "0:57:47",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "gson version clash with stripe-java",
+            "html_url": "https://github.com/twilio/twilio-java/issues/859",
+            "author": "codylerum",
+            "time_to_first_response": "0:32:22",
+            "time_to_close": "5:41:55",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] Line status lookups are instead mainly number format lookups",
+            "html_url": "https://github.com/twilio/twilio-java/issues/851",
+            "author": "Osiris-Team",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-java is:issue created:2025-05-01..2025-05-31"
+}
