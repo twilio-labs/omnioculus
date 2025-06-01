@@ -1,7 +1,7 @@
 {
-    "start_date": "2025-04-01",
-    "end_date": "2025-04-30",
-    "organization": "twilio",
+    "start_date": "2025-05-01",
+    "end_date": "2025-05-31",
+    "organization": "twilio-samples",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
@@ -9,153 +9,25 @@
         {
             "username": "IObert",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/76711946?v=4",
-            "contribution_count": 1615,
-            "commit_url": "https://github.com/twilio/twilio-php/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-python/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-java/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-ruby/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-csharp/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-node/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-go/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-oai/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30, https://github.com/twilio/sendgrid-oai/commits?author=twilio-dx&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "tiwarishubham635",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/59199353?v=4",
-            "contribution_count": 92,
-            "commit_url": "https://github.com/twilio/twilio-php/commits?author=tiwarishubham635&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-csharp/commits?author=tiwarishubham635&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-node/commits?author=tiwarishubham635&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-go/commits?author=tiwarishubham635&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-oai-generator/commits?author=tiwarishubham635&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "manisha1997",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/28821901?v=4",
-            "contribution_count": 34,
-            "commit_url": "https://github.com/twilio/twilio-php/commits?author=manisha1997&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-python/commits?author=manisha1997&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-java/commits?author=manisha1997&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-cli/commits?author=manisha1997&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-go/commits?author=manisha1997&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-oai-generator/commits?author=manisha1997&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "oehlschl",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/721402?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio/twilio-ruby/commits?author=oehlschl&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "sujay-neglur",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/33192319?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio/twilio-node/commits?author=sujay-neglur&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "twilio-ci",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/15808651?v=4",
-            "contribution_count": 675,
-            "commit_url": "https://github.com/twilio/twilio-video.js/commits?author=twilio-ci&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-video-processors.js/commits?author=twilio-ci&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "charliesantos",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/22135968?v=4",
-            "contribution_count": 80,
-            "commit_url": "https://github.com/twilio/twilio-video.js/commits?author=charliesantos&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "robinske",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2474521?v=4",
-            "contribution_count": 35,
-            "commit_url": "https://github.com/twilio/twilio-video.js/commits?author=luisrivas&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-video-app-react/commits?author=luisrivas&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-video-processors.js/commits?author=luisrivas&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "MuindiStephen",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/57146128?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio/voice-quickstart-android/commits?author=MuindiStephen&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "andreasonny83",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/8806300?v=4",
-            "contribution_count": 7,
-            "commit_url": "https://github.com/twilio/twilio-taskrouter.js/commits?author=andreasonny83&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "sbansla",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/104902068?v=4",
-            "contribution_count": 5,
-            "commit_url": "https://github.com/twilio/twilio-go/commits?author=sbansla&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "sigi-glovebox",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/169124911?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio/twilio-go/commits?author=sigi-glovebox&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "yafuquen",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/38441569?v=4",
-            "contribution_count": 83,
-            "commit_url": "https://github.com/twilio/twilio-verify-ios/commits?author=yafuquen&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "AlejandroOrozco",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/4898461?v=4",
-            "contribution_count": 21,
-            "commit_url": "https://github.com/twilio/twilio-verify-ios/commits?author=AlejandroOrozco&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "authid-sdk-ci",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/161628799?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio/twilio-verify-ios/commits?author=authid-sdk-ci&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "twilio-vblocks-ci",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/92188778?v=4",
-            "contribution_count": 190,
-            "commit_url": "https://github.com/twilio/twilio-voice.js/commits?author=twilio-vblocks-ci&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-voice-react-native/commits?author=twilio-vblocks-ci&since=2025-04-01&until=2025-04-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "kpchoy",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/35968892?v=4",
-            "contribution_count": 92,
-            "commit_url": "https://github.com/twilio/twilio-voice.js/commits?author=kpchoy&since=2025-04-01&until=2025-04-30, https://github.com/twilio/twilio-voice-react-native/commits?author=kpchoy&since=2025-04-01&until=2025-04-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
+            "contribution_count": 210,
+            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2025-05-01&until=2025-05-31",
             "sponsor_info": ""
         },
         {
             "username": "ktalebian",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/12516091?v=4",
-            "contribution_count": 137,
-            "commit_url": "https://github.com/twilio/twilio-voice-react-native/commits?author=mhuynh5757&since=2025-04-01&until=2025-04-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
+            "contribution_count": 7,
+            "commit_url": "https://github.com/twilio-samples/openai-mcp-samples/commits?author=ktalebian&since=2025-05-01&until=2025-05-31",
             "sponsor_info": ""
         },
         {
-            "username": "kmorope",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/3497950?v=4",
-            "contribution_count": 8,
-            "commit_url": "https://github.com/twilio/twilio-conversations-demo-react/commits?author=kmorope&since=2025-04-01&until=2025-04-30",
+            "username": "bpartridge83",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/126483?v=4",
+            "contribution_count": 2,
+            "commit_url": "https://github.com/twilio-samples/openai-mcp-samples/commits?author=bpartridge83&since=2025-05-01&until=2025-05-31",
             "sponsor_info": ""
         }
     ]
