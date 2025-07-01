@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "3 days, 0:58:23",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "3 days, 0:58:23",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "3 days, 0:58:23",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 0,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "Dependency updates required for plugin development",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/647",
+            "author": "micaswyers-work",
+            "time_to_first_response": "3 days, 0:58:23",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-cli is:issue created:2025-06-01..2025-06-30"
+}
