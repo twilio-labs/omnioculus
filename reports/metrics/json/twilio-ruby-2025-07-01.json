@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "10:54:05",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "10:54:05",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "10:54:05",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 0,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "Update to jwt 3.x",
+            "html_url": "https://github.com/twilio/twilio-ruby/issues/754",
+            "author": "mohamedhafez",
+            "time_to_first_response": "10:54:05",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-ruby is:issue created:2025-06-01..2025-06-30"
+}
