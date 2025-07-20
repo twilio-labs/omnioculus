@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "11:47:01",
+    "average_time_to_close": "11:47:00",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "11:47:01",
+    "median_time_to_close": "11:47:00",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "11:47:01",
+    "90_percentile_time_to_close": "11:47:00",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 1,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "Best way to get call status?",
+            "html_url": "https://github.com/twilio/twilio-java/issues/850",
+            "author": "Osiris-Team",
+            "time_to_first_response": "11:47:01",
+            "time_to_close": "11:47:00",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-java is:issue created:2025-04-01..2025-04-30"
+}

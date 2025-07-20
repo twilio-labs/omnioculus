@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "1 day, 15:09:27",
+    "average_time_to_close": "16:42:10",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "1 day, 2:31:32",
+    "median_time_to_close": "16:42:10",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "3 days, 13:34:04",
+    "90_percentile_time_to_close": "1 day, 5:41:46",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 2,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "CVE for dependency ecdsa",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1108",
+            "author": "trupus",
+            "time_to_first_response": "1 day, 20:09:07",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Release 6.12.1 breaks backwards compatibility for importing EventWebhookHeader",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1106",
+            "author": "chad-mazlo",
+            "time_to_first_response": "8:53:57",
+            "time_to_close": "1 day, 8:56:40",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "CVE for dependency werkzeug. Sendgrid requires <3.0.0, CVE requires >= 3.0.3",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1105",
+            "author": "chdryra",
+            "time_to_first_response": "4 days, 7:19:03",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "No module named 'ecdsa' error in latest release",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1101",
+            "author": "damian-gn",
+            "time_to_first_response": "0:15:40",
+            "time_to_close": "0:27:40",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-python is:issue created:2025-05-01..2025-05-31"
+}

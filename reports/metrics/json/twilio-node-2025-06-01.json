@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "16:54:40",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "16:54:40",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "16:54:40",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 0,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Broken typescript definitions for twiml",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1095",
+            "author": "controversial",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug] VoiceResponse ConferenceRegion type error for us2 region",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1093",
+            "author": "seoi99",
+            "time_to_first_response": "16:54:40",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-05-01..2025-05-31"
+}
