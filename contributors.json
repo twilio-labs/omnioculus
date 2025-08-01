@@ -1,7 +1,7 @@
 {
     "start_date": "2025-07-01",
     "end_date": "2025-07-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
@@ -10,16 +10,56 @@
             "username": "IObert",
             "new_contributor": false,
             "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
-            "contribution_count": 231,
-            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2025-07-01&until=2025-07-31",
+            "contribution_count": 233,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-07-01&until=2025-07-31",
             "sponsor_info": ""
         },
         {
-            "username": "andie787",
+            "username": "krisantrobus",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/55083528?v=4",
+            "contribution_count": 63,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=krisantrobus&since=2025-07-01&until=2025-07-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "PixeledCode",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/22215209?v=4",
+            "contribution_count": 36,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=PixeledCode&since=2025-07-01&until=2025-07-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "simpixelated",
             "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/13827355?v=4",
-            "contribution_count": 3,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=andie787&since=2025-07-01&until=2025-07-31",
+            "avatar_url": "https://avatars.githubusercontent.com/u/838282?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=simpixelated&since=2025-07-01&until=2025-07-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "nkrantz",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/75342690?v=4",
+            "contribution_count": 4,
+            "commit_url": "https://github.com/twilio-labs/paste-prototype-kit/commits?author=nkrantz&since=2025-07-01&until=2025-07-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "stanlemon",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/86314?v=4",
+            "contribution_count": 88,
+            "commit_url": "https://github.com/twilio-labs/vestlus/commits?author=stanlemon&since=2025-07-01&until=2025-07-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "ktalebian",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
+            "contribution_count": 96,
+            "commit_url": "https://github.com/twilio-labs/mcp/commits?author=ktalebian&since=2025-07-01&until=2025-07-31, https://github.com/twilio-labs/a2a-latency-extension/commits?author=ktalebian&since=2025-07-01&until=2025-07-31",
             "sponsor_info": ""
         }
     ]
