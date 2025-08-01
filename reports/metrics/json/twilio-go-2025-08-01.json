@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "1 day, 12:16:05",
+    "average_time_to_close": "6 days, 2:38:56",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "1 day, 18:10:12",
+    "median_time_to_close": "6 days, 2:38:56",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "2 days, 4:28:50",
+    "90_percentile_time_to_close": "8 days, 15:04:57",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 2,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Generating <Prosody> instead of <prosody>",
+            "html_url": "https://github.com/twilio/twilio-go/issues/295",
+            "author": "nidshar",
+            "time_to_first_response": "11:34:34",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "README \"Bulk Send\" example references missing or removed API",
+            "html_url": "https://github.com/twilio/twilio-go/issues/293",
+            "author": "fujiwara-manabu-0516",
+            "time_to_first_response": "1 day, 18:10:12",
+            "time_to_close": "2 days, 23:06:26",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Checksum Mismatch for v1.26.4 - Release CI/CD Appears to Have Failed",
+            "html_url": "https://github.com/twilio/twilio-go/issues/292",
+            "author": "agity7",
+            "time_to_first_response": "2 days, 7:03:30",
+            "time_to_close": "9 days, 6:11:27",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2025-07-01..2025-07-31"
+}
