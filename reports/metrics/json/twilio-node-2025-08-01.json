@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "15 days, 14:05:22",
+    "average_time_to_close": "12 days, 13:27:30",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "15 days, 14:05:22",
+    "median_time_to_close": "12 days, 13:27:30",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "19 days, 13:33:24",
+    "90_percentile_time_to_close": "12 days, 13:27:30",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "[Feature Request]: Add root RestException export",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1105",
+            "author": "vladshcherbin",
+            "time_to_first_response": "20 days, 13:25:25",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Feature Request]: Add ESM version",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1104",
+            "author": "vladshcherbin",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Feature Request]: WhatsApp Typing Indicator",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1103",
+            "author": "eduardolundgren",
+            "time_to_first_response": "10 days, 14:45:20",
+            "time_to_close": "12 days, 13:27:30",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-07-01..2025-07-31"
+}
