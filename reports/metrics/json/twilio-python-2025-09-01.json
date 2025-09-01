@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "7:08:10",
+    "average_time_to_close": "10 days, 23:59:26",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "7:08:10",
+    "median_time_to_close": "10 days, 23:59:26",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "7:08:10",
+    "90_percentile_time_to_close": "10 days, 23:59:26",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "[BUG] Content API bindings expect underscores, but the API expects slashes",
+            "html_url": "https://github.com/twilio/twilio-python/issues/881",
+            "author": "LeOndaz",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Feature Request: Support for WhatsApp Business Template Creation via Twilio Python REST API",
+            "html_url": "https://github.com/twilio/twilio-python/issues/880",
+            "author": "MohamedAbdElgni",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Add py.typed file to support PEP 561",
+            "html_url": "https://github.com/twilio/twilio-python/issues/879",
+            "author": "N1ntek",
+            "time_to_first_response": "7:08:10",
+            "time_to_close": "10 days, 23:59:26",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-08-01..2025-08-31"
+}
