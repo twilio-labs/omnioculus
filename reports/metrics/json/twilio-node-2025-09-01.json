@@ -1,0 +1,74 @@
+{
+    "average_time_to_first_response": "2 days, 12:02:12",
+    "average_time_to_close": "2 days, 11:07:25",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "2 days, 18:44:40",
+    "median_time_to_close": "2 days, 18:44:40",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "4 days, 7:58:56",
+    "90_percentile_time_to_close": "4 days, 18:25:27",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 5,
+    "total_item_count": 6,
+    "issues": [
+        {
+            "title": "twilio.webhook is not a function",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1123",
+            "author": "crizant",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Package size large due to express",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1118",
+            "author": "tiwarishubham635",
+            "time_to_first_response": "None",
+            "time_to_close": "4 days, 19:01:09",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Test issue",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1117",
+            "author": "tiwarishubham635",
+            "time_to_first_response": "0:04:27",
+            "time_to_close": "0:05:32",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Verify endpoint changed",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1115",
+            "author": "Tpgainz",
+            "time_to_first_response": "2 days, 18:44:40",
+            "time_to_close": "2 days, 18:44:40",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Dummy Issue",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1113",
+            "author": "tiwarishubham635",
+            "time_to_first_response": "None",
+            "time_to_close": "0:13:49",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Twilio Verify API works with cURL, but not in Node.js",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1111",
+            "author": "ecubas-vitall",
+            "time_to_first_response": "4 days, 17:17:30",
+            "time_to_close": "4 days, 17:31:55",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-08-01..2025-08-31"
+}
