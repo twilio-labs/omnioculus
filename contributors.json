@@ -1,73 +1,17 @@
 {
     "start_date": "2025-09-01",
     "end_date": "2025-09-30",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
     "contributors": [
         {
-            "username": "benparj98",
+            "username": "IObert",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/109106005?v=4",
-            "contribution_count": 12,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=benparj98&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "eunhwan-h",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/117678502?v=4",
-            "contribution_count": 2,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=eunhwan-h&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "salonsotwilio",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/135148321?v=4",
-            "contribution_count": 2,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=salonsotwilio&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "twiliojosh",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/208853690?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=twiliojosh&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "pkamp3",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/24463442?v=4",
-            "contribution_count": 40,
-            "commit_url": "https://github.com/twilio-samples/speech-assistant-openai-realtime-api-node/commits?author=pkamp3&since=2025-09-01&until=2025-09-30, https://github.com/twilio-samples/speech-assistant-openai-realtime-api-python/commits?author=pkamp3&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "ktalebian",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
-            "contribution_count": 11,
-            "commit_url": "https://github.com/twilio-samples/cr-flowiseai/commits?author=ktalebian&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "druv5319",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/13487446?v=4",
-            "contribution_count": 3,
-            "commit_url": "https://github.com/twilio-samples/conversationrelay-elevenlabs-openai/commits?author=druv5319&since=2025-09-01&until=2025-09-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "micaswyers-work",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/175246312?v=4",
-            "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/outbound-ivr-python/commits?author=micaswyers-work&since=2025-09-01&until=2025-09-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
+            "contribution_count": 234,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-09-01&until=2025-09-30",
             "sponsor_info": ""
         }
     ]
