@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "9 days, 3:19:41",
+    "average_time_to_close": "9 days, 3:19:41",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "9 days, 3:19:41",
+    "median_time_to_close": "9 days, 3:19:41",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "9 days, 3:19:41",
+    "90_percentile_time_to_close": "9 days, 3:19:41",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Why were usage category enums removed in 7.13.0?",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/799",
+            "author": "jiodice-tl",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Edge: roaming does not work",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/798",
+            "author": "JakubHolovsky",
+            "time_to_first_response": "9 days, 3:19:41",
+            "time_to_close": "9 days, 3:19:41",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Request to add multi-targeting for .NET 8 and .NET 10",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/797",
+            "author": "ReniKIcon17",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-csharp is:issue created:2025-09-01..2025-09-30"
+}
