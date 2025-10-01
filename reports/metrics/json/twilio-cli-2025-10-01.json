@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "12:17:56",
+    "average_time_to_close": "12:40:36",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "12:17:56",
+    "median_time_to_close": "12:40:36",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "12:31:06",
+    "90_percentile_time_to_close": "12:45:34",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 2,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Hostname/IP does not match certificate's altnames",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/663",
+            "author": "djeer",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Axios dependency causes \"high severity\" dependabot alert",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/662",
+            "author": "sluhn-houghtons",
+            "time_to_first_response": "12:01:28",
+            "time_to_close": "12:46:49",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Use system keystore for account credentials",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/661",
+            "author": "ThatOneCalculator",
+            "time_to_first_response": "12:34:23",
+            "time_to_close": "12:34:23",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-cli is:issue created:2025-09-01..2025-09-30"
+}
