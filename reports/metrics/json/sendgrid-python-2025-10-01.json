@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 0,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Upgrade to modern python",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1120",
+            "author": "CoderJoshDK",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Update ruff usage",
+            "html_url": "https://github.com/sendgrid/sendgrid-python/issues/1119",
+            "author": "CoderJoshDK",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-python is:issue created:2025-09-01..2025-09-30"
+}
