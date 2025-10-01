@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "2 days, 3:29:11",
+    "average_time_to_close": "7 days, 7:36:56",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "14:42:02",
+    "median_time_to_close": "7 days, 7:36:56",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "5 days, 10:56:06",
+    "90_percentile_time_to_close": "7 days, 7:36:56",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 1,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "5.10.0 crashes when we try to run our application",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1136",
+            "author": "hgf777-br",
+            "time_to_first_response": "1 day, 2:40:49",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "5.10.0: crashes at startup when bundled with esbuild",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1134",
+            "author": "aniravi24",
+            "time_to_first_response": "0:55:44",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "5.10.0: types not exported properly",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1133",
+            "author": "samuelcole",
+            "time_to_first_response": "2:43:15",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug] Intermittent \"The requested resource was not found /v2/Services/<>/VerificationCheck \" for untouched project of 16+ months",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1126",
+            "author": "sebastiangug",
+            "time_to_first_response": "7 days, 7:36:56",
+            "time_to_close": "7 days, 7:36:56",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-09-01..2025-09-30"
+}
