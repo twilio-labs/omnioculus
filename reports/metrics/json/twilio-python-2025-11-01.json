@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "17:17:35",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "17:17:35",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "17:17:35",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 1,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "Sending templates with no content variables results in TwilioRestException and Content Variables are invalid",
+            "html_url": "https://github.com/twilio/twilio-python/issues/892",
+            "author": "BrentALevings",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] RequestValidator does not accept json string although it says so",
+            "html_url": "https://github.com/twilio/twilio-python/issues/885",
+            "author": "lvsun",
+            "time_to_first_response": "None",
+            "time_to_close": "17:17:35",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Feature request: update statusCallback url for an in-progress call without url redirect",
+            "html_url": "https://github.com/twilio/twilio-python/issues/884",
+            "author": "hewdoe",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-python is:issue created:2025-10-01..2025-10-31"
+}
