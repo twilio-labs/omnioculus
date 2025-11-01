@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "8:54:46",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "8:54:46",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "8:54:46",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "[BUG] Infinite loop when iterating over ResourceSet<IncomingPhoneNumber>.iterator() and using next() method",
+            "html_url": "https://github.com/twilio/twilio-java/issues/914",
+            "author": "solaechea",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] NetworkHttpClient RequestConfig overridden in makeRequest method",
+            "html_url": "https://github.com/twilio/twilio-java/issues/913",
+            "author": "natasa-radenovic",
+            "time_to_first_response": "8:54:46",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] IllegalStateException in Twilio.java's static initialization block",
+            "html_url": "https://github.com/twilio/twilio-java/issues/912",
+            "author": "bfreitastgtg",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-java is:issue created:2025-10-01..2025-10-31"
+}
