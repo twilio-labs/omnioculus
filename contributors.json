@@ -1,65 +1,65 @@
 {
     "start_date": "2025-10-01",
     "end_date": "2025-10-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
     "contributors": [
         {
-            "username": "mchaparro",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/4836261?v=4",
-            "contribution_count": 5,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=mchaparro&since=2025-10-01&until=2025-10-31",
-            "sponsor_info": ""
-        },
-        {
             "username": "dprothero",
             "new_contributor": false,
             "avatar_url": "https://avatars.githubusercontent.com/u/1897006?v=4",
-            "contribution_count": 5,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=dprothero&since=2025-10-01&until=2025-10-31",
+            "contribution_count": 68,
+            "commit_url": "https://github.com/twilio-labs/twilio-aspnet/commits?author=dprothero&since=2025-10-01&until=2025-10-31, https://github.com/twilio-labs/function-templates/commits?author=dprothero&since=2025-10-01&until=2025-10-31, https://github.com/twilio-labs/sample-pay-service/commits?author=dprothero&since=2025-10-01&until=2025-10-31",
             "sponsor_info": ""
         },
         {
-            "username": "eunhwan-h",
+            "username": "IObert",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/117678502?v=4",
-            "contribution_count": 3,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=eunhwan-h&since=2025-10-01&until=2025-10-31",
+            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
+            "contribution_count": 243,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-10-01&until=2025-10-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "robinske",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/3673341?v=4",
+            "contribution_count": 147,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=robinske&since=2025-10-01&until=2025-10-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "twilio-labs-ci",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/65686990?v=4",
+            "contribution_count": 64,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=twilio-labs-ci&since=2025-10-01&until=2025-10-31",
             "sponsor_info": ""
         },
         {
             "username": "twiliojosh",
             "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/175246312?v=4",
+            "contribution_count": 5,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=micaswyers-work&since=2025-10-01&until=2025-10-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "twiliojosh",
+            "new_contributor": true,
             "avatar_url": "https://avatars.githubusercontent.com/u/208853690?v=4",
-            "contribution_count": 9,
-            "commit_url": "https://github.com/twilio-samples/basic-ivr-php/commits?author=twiliojosh&since=2025-10-01&until=2025-10-31, https://github.com/twilio-samples/basic-ivr-go/commits?author=twiliojosh&since=2025-10-01&until=2025-10-31",
+            "contribution_count": 3,
+            "commit_url": "https://github.com/twilio-labs/function-templates/commits?author=twiliojosh&since=2025-10-01&until=2025-10-31",
             "sponsor_info": ""
         },
         {
-            "username": "ktalebian",
+            "username": "ayyrickay",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/2308915?v=4",
-            "contribution_count": 24,
-            "commit_url": "https://github.com/twilio-samples/cr-flowiseai/commits?author=ktalebian&since=2025-10-01&until=2025-10-31, https://github.com/twilio-samples/cr-dify/commits?author=ktalebian&since=2025-10-01&until=2025-10-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "cancit",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/9624502?v=4",
-            "contribution_count": 4,
-            "commit_url": "https://github.com/twilio-samples/flex-sdk-demo/commits?author=cancit&since=2025-10-01&until=2025-10-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "andreasonny83",
-            "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/8806300?v=4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8594375?v=4",
             "contribution_count": 2,
-            "commit_url": "https://github.com/twilio-samples/flex-sdk-demo/commits?author=andreasonny83&since=2025-10-01&until=2025-10-31",
+            "commit_url": "https://github.com/twilio-labs/about/commits?author=ayyrickay&since=2025-10-01&until=2025-10-31, https://github.com/twilio-labs/sample-pay-service/commits?author=ayyrickay&since=2025-10-01&until=2025-10-31",
             "sponsor_info": ""
         }
     ]
