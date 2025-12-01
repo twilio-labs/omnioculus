@@ -1,7 +1,7 @@
 {
     "start_date": "2025-11-01",
     "end_date": "2025-11-30",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
@@ -10,40 +10,32 @@
             "username": "IObert",
             "new_contributor": false,
             "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
-            "contribution_count": 246,
-            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2025-11-01&until=2025-11-30",
+            "contribution_count": 270,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-11-01&until=2025-11-30",
             "sponsor_info": ""
         },
         {
-            "username": "eunhwan-h",
+            "username": "nkrantz",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/117678502?v=4",
-            "contribution_count": 5,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=eunhwan-h&since=2025-11-01&until=2025-11-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/75342690?v=4",
+            "contribution_count": 187,
+            "commit_url": "https://github.com/twilio-labs/paste/commits?author=nkrantz&since=2025-11-01&until=2025-11-30",
             "sponsor_info": ""
         },
         {
-            "username": "prgoyall",
+            "username": "anabenites",
             "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/139214167?v=4",
-            "contribution_count": 5,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=prgoyall&since=2025-11-01&until=2025-11-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85556044?v=4",
+            "contribution_count": 8,
+            "commit_url": "https://github.com/twilio-labs/docs-ai-buddy/commits?author=anabenites&since=2025-11-01&until=2025-11-30",
             "sponsor_info": ""
         },
         {
-            "username": "twiliojosh",
+            "username": "bermudezmt",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/208853690?v=4",
-            "contribution_count": 3,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=twiliojosh&since=2025-11-01&until=2025-11-30",
-            "sponsor_info": ""
-        },
-        {
-            "username": "AJLange",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/6756830?v=4",
-            "contribution_count": 4,
-            "commit_url": "https://github.com/twilio-samples/add-mp3-to-phone-call/commits?author=AJLange&since=2025-11-01&until=2025-11-30",
+            "avatar_url": "https://avatars.githubusercontent.com/u/5844484?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/docs-ai-buddy/commits?author=bermudezmt&since=2025-11-01&until=2025-11-30",
             "sponsor_info": ""
         }
     ]
