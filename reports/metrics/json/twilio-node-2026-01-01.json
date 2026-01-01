@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "1:29:43",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "1:29:43",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "1:29:43",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 4,
+    "num_items_closed": 0,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "Security: jsonwebtoken dependency uses vulnerable jws@3.2.2",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1165",
+            "author": "MAlkabbani",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug Report]: Typing indicator doesn't work",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1160",
+            "author": "vixalien",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Feature Request]:",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1159",
+            "author": "infoe2logy",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "The release on npm for version 5.11.0 is an empty project",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1158",
+            "author": "Rubyboat1207",
+            "time_to_first_response": "1:29:43",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-12-01..2025-12-31"
+}
