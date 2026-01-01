@@ -1,7 +1,7 @@
 {
     "start_date": "2025-12-01",
     "end_date": "2025-12-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
@@ -10,32 +10,24 @@
             "username": "IObert",
             "new_contributor": false,
             "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
-            "contribution_count": 250,
-            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2025-12-01&until=2025-12-31",
+            "contribution_count": 272,
+            "commit_url": "https://github.com/twilio-labs/twilio-mixologist/commits?author=IObert&since=2025-12-01&until=2025-12-31",
             "sponsor_info": ""
         },
         {
-            "username": "benparj98",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/109106005?v=4",
-            "contribution_count": 15,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=benparj98&since=2025-12-01&until=2025-12-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "eunhwan-h",
-            "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/117678502?v=4",
-            "contribution_count": 6,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=eunhwan-h&since=2025-12-01&until=2025-12-31",
-            "sponsor_info": ""
-        },
-        {
-            "username": "anabenites",
+            "username": "alfrol",
             "new_contributor": true,
-            "avatar_url": "https://avatars.githubusercontent.com/u/85556044?v=4",
+            "avatar_url": "https://avatars.githubusercontent.com/u/43606916?v=4",
             "contribution_count": 1,
-            "commit_url": "https://github.com/twilio-samples/api-snippets/commits?author=anabenites&since=2025-12-01&until=2025-12-31",
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=alfrol&since=2025-12-01&until=2025-12-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "farah-aly",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/206566342?v=4",
+            "contribution_count": 7,
+            "commit_url": "https://github.com/twilio-labs/docs-ai-buddy/commits?author=farah-aly&since=2025-12-01&until=2025-12-31",
             "sponsor_info": ""
         }
     ]
