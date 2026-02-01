@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 0,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Why does SendGrid convert HTML entities (such as the copyright symbol) to Unicode characters?",
+            "html_url": "https://github.com/sendgrid/sendgrid-csharp/issues/1225",
+            "author": "alekdavis",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "There is no way to specify UTF-8 charset/encoding for localized messages",
+            "html_url": "https://github.com/sendgrid/sendgrid-csharp/issues/1224",
+            "author": "alekdavis",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-csharp is:issue created:2026-01-01..2026-01-31"
+}
