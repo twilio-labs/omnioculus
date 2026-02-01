@@ -1,17 +1,41 @@
 {
     "start_date": "2026-01-01",
     "end_date": "2026-01-31",
-    "organization": "twilio-samples",
+    "organization": "twilio-labs",
     "repository_list": [],
     "sponsor_info": false,
     "link_to_profile": false,
     "contributors": [
         {
-            "username": "IObert",
+            "username": "deshartman",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/47675451?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/serverless-toolkit/commits?author=deshartman&since=2026-01-01&until=2026-01-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "ayyrickay",
             "new_contributor": false,
-            "avatar_url": "https://avatars.githubusercontent.com/u/1873245?v=4",
-            "contribution_count": 253,
-            "commit_url": "https://github.com/twilio-samples/wheel-of-twilio/commits?author=IObert&since=2026-01-01&until=2026-01-31",
+            "avatar_url": "https://avatars.githubusercontent.com/u/8594375?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/twilio-firebase-extensions/commits?author=ayyrickay&since=2026-01-01&until=2026-01-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "mxbaylee",
+            "new_contributor": true,
+            "avatar_url": "https://avatars.githubusercontent.com/u/119542904?v=4",
+            "contribution_count": 1,
+            "commit_url": "https://github.com/twilio-labs/dev-phone/commits?author=mxbaylee&since=2026-01-01&until=2026-01-31",
+            "sponsor_info": ""
+        },
+        {
+            "username": "bermudezmt",
+            "new_contributor": false,
+            "avatar_url": "https://avatars.githubusercontent.com/u/5844484?v=4",
+            "contribution_count": 2,
+            "commit_url": "https://github.com/twilio-labs/docs-ai-buddy/commits?author=bermudezmt&since=2026-01-01&until=2026-01-31",
             "sponsor_info": ""
         }
     ]
