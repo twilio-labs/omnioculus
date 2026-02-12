@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "2 days, 15:26:56",
+    "average_time_to_close": "1 day, 18:51:56",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "2 days, 15:26:56",
+    "median_time_to_close": "1 day, 18:51:56",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "2 days, 15:26:56",
+    "90_percentile_time_to_close": "1 day, 18:51:56",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Conversation Relay (WebSocket etc.) SDK",
+            "html_url": "https://github.com/twilio/twilio-java/issues/927",
+            "author": "vorburger",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[BUG] PKCV No longer working 11.x.x \"The request signature in JWT is invalid or missing\"",
+            "html_url": "https://github.com/twilio/twilio-java/issues/925",
+            "author": "CBrowne",
+            "time_to_first_response": "2 days, 15:26:56",
+            "time_to_close": "1 day, 18:51:56",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-java is:issue created:2025-11-01..2025-11-30"
+}

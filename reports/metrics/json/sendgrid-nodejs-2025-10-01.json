@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "12:56:59",
+    "average_time_to_close": "13:39:20",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "12:56:59",
+    "median_time_to_close": "13:39:20",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "12:56:59",
+    "90_percentile_time_to_close": "13:39:20",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Security - Update @sendgrid/mail dependency on axios to support patched versions for security",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1446",
+            "author": "knofte",
+            "time_to_first_response": "12:56:59",
+            "time_to_close": "13:39:20",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "set custom logger?",
+            "html_url": "https://github.com/sendgrid/sendgrid-nodejs/issues/1444",
+            "author": "soryy708",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-nodejs is:issue created:2025-09-01..2025-09-30"
+}

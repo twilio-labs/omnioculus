@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "0:22:39",
+    "average_time_to_close": "10 days, 1:54:19",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:22:39",
+    "median_time_to_close": "10 days, 1:54:19",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:22:39",
+    "90_percentile_time_to_close": "10 days, 1:54:19",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 1,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "Java SDK version `11.3.1` is impacted by CVE-2023-3635",
+            "html_url": "https://github.com/twilio/twilio-java/issues/932",
+            "author": "fr33m0nk",
+            "time_to_first_response": "0:22:39",
+            "time_to_close": "10 days, 1:54:19",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-java is:issue created:2026-01-01..2026-01-31"
+}

@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "12 days, 1:07:24",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "12 days, 1:07:24",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "12 days, 1:07:24",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 4,
+    "num_items_closed": 0,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "[Feature Request]: official Node.js v24 support",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1145",
+            "author": "sarangspadalkar",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Invalid types for phoneNumberPrices in pricing.v1",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1144",
+            "author": "aakash-codiste",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "LocalInstance is typed MMS and SMS in lower case but returns in uppercase",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1143",
+            "author": "tsegreto",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Invalid types for nested fields",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1140",
+            "author": "fcoelho",
+            "time_to_first_response": "12 days, 1:07:24",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-10-01..2025-10-31"
+}

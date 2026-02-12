@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "4 days, 8:38:49",
+    "average_time_to_close": "1 day, 11:43:16",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "4 days, 8:38:49",
+    "median_time_to_close": "1 day, 11:43:16",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "4 days, 8:38:49",
+    "90_percentile_time_to_close": "1 day, 11:43:16",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Public properties are prefixed with \"_\" in version 7.13.3",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/804",
+            "author": "JakubHolovsky",
+            "time_to_first_response": "4 days, 8:38:49",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "C# twilio",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/803",
+            "author": "UMBERTODECICCO75",
+            "time_to_first_response": "None",
+            "time_to_close": "1 day, 11:43:16",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-csharp is:issue created:2025-10-01..2025-10-31"
+}

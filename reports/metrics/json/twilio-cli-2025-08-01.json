@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "0:02:58",
+    "average_time_to_close": "0:31:25",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:02:58",
+    "median_time_to_close": "0:31:25",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:02:58",
+    "90_percentile_time_to_close": "0:31:25",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "ERR_REQUIRE_ESM when following MCP tutorial",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/657",
+            "author": "vincentjflorio",
+            "time_to_first_response": "0:02:58",
+            "time_to_close": "0:31:25",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Certificate Error for api:messaging:v1:services:list in ie1 region",
+            "html_url": "https://github.com/twilio/twilio-cli/issues/655",
+            "author": "DaSteph",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-cli is:issue created:2025-07-01..2025-07-31"
+}

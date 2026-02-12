@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "0:01:25",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "0:01:25",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "0:01:25",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "TypeError: Cannot read properties of undefined (reading 'prototype') when using Next.js 16 + Turbopack",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1152",
+            "author": "YaronRosh",
+            "time_to_first_response": "0:01:25",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Bug: LineTypeIntelligence properties undefined due to missing snake_case to camelCase mapping",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1148",
+            "author": "victorlunam",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Feature Request]: Support raw content payload for WhatsApp Interactive Messages in messages.create",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1147",
+            "author": "rajeev-oravco",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2025-11-01..2025-11-30"
+}

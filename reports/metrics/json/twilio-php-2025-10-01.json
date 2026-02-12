@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "4 days, 13:07:41",
+    "average_time_to_close": "4 days, 8:21:15",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "4 days, 13:07:41",
+    "median_time_to_close": "4 days, 8:21:15",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "8 days, 0:41:08",
+    "90_percentile_time_to_close": "4 days, 8:21:15",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 1,
+    "num_items_closed": 1,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "Duplicated Import on Service Context",
+            "html_url": "https://github.com/twilio/twilio-php/issues/879",
+            "author": "felipehertzer",
+            "time_to_first_response": "4:40:52",
+            "time_to_close": "4 days, 8:21:15",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Instructions in Contributing, Docker has issues",
+            "html_url": "https://github.com/twilio/twilio-php/issues/875",
+            "author": "craiglondon",
+            "time_to_first_response": "8 days, 21:34:30",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-php is:issue created:2025-09-01..2025-09-30"
+}
