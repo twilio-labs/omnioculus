@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Run stale-repos Tool
-      uses: github/stale-repos@v1
+      uses: github-community-projects/stale-repos@v1
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ORGANIZATION: twilio-samples
