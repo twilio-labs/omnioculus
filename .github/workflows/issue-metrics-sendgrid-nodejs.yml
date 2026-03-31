@@ -23,7 +23,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
     - name: Run issue-metrics tool
-      uses: github/issue-metrics@v2
+      uses: github-community-projects/issue-metrics@v2
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SEARCH_QUERY: 'repo:sendgrid/sendgrid-nodejs is:issue created:${{ env.last_month }}'

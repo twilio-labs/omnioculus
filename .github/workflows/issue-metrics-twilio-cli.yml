@@ -23,7 +23,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v4
     - name: Run issue-metrics Tool
-      uses: github/issue-metrics@v2
+      uses: github-community-projects/issue-metrics@v2
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SEARCH_QUERY: 'repo:twilio/twilio-cli is:issue created:${{ env.last_month }}'
