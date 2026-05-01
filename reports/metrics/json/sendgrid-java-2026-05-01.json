@@ -1,0 +1,29 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "24 days, 17:46:35",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "24 days, 17:46:35",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "24 days, 17:46:35",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 0,
+    "num_items_closed": 1,
+    "total_item_count": 1,
+    "issues": [
+        {
+            "title": "the user_id vs id inconsistency between POST and GET /v3/subusers",
+            "html_url": "https://github.com/sendgrid/sendgrid-java/issues/781",
+            "author": "sachinsarangamath-92",
+            "time_to_first_response": "None",
+            "time_to_close": "24 days, 17:46:35",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:sendgrid/sendgrid-java is:issue created:2026-04-01..2026-04-30"
+}
