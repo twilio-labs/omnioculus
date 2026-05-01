@@ -1,0 +1,56 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 4,
+    "num_items_closed": 0,
+    "total_item_count": 4,
+    "issues": [
+        {
+            "title": "ConversationRelay.ReportInputDuringAgentSpeech is bool? but TwiML spec requires string enum",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/829",
+            "author": "BobbyGerace",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Vulnerability in dependancy",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/828",
+            "author": "Kipotlov",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "SourceLink or .snupkg (NuGet symbol package) for stepping into library",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/825",
+            "author": "mattflaschen",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Model classes for ConversationRelay JSON messages",
+            "html_url": "https://github.com/twilio/twilio-csharp/issues/823",
+            "author": "mattflaschen",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-csharp is:issue created:2026-04-01..2026-04-30"
+}
