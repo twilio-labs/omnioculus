@@ -1,0 +1,62 @@
+# Inactive Repositories
+
+The following repos have not had a push event for more than 182 days:
+
+| Repository URL | Days Inactive | Last Push Date | Visibility |
+| --- | --- | --- | --- |
+| https://github.com/twilio-labs/sample-preference-center | 2173 | 2020-03-18 | public |
+| https://github.com/twilio-labs/.github | 2007 | 2020-08-31 | public |
+| https://github.com/twilio-labs/CloudCityCakeCo-dotnet-mvc | 1913 | 2020-12-04 | public |
+| https://github.com/twilio-labs/serverless-api | 1796 | 2021-03-31 | public |
+| https://github.com/twilio-labs/socless_python | 1579 | 2021-11-02 | public |
+| https://github.com/twilio-labs/twilio-ipsum | 1516 | 2022-01-05 | public |
+| https://github.com/twilio-labs/twilio-anchore | 1497 | 2022-01-24 | public |
+| https://github.com/twilio-labs/socless_repo_parser | 1455 | 2022-03-07 | public |
+| https://github.com/twilio-labs/socless_integration_packager | 1432 | 2022-03-30 | public |
+| https://github.com/twilio-labs/socless-template | 1326 | 2022-07-13 | public |
+| https://github.com/twilio-labs/public-test-repo | 1280 | 2022-08-29 | public |
+| https://github.com/twilio-labs/plugin-webhook | 1236 | 2022-10-11 | public |
+| https://github.com/twilio-labs/receptionist-bot-rs | 1233 | 2022-10-14 | public |
+| https://github.com/twilio-labs/netlify-okta-auth-sample-site | 1187 | 2022-11-29 | public |
+| https://github.com/twilio-labs/sample-twilio-go | 1181 | 2022-12-05 | public |
+| https://github.com/twilio-labs/sms-keyword-router | 1029 | 2023-05-07 | public |
+| https://github.com/twilio-labs/serverless-bundling-demo | 984 | 2023-06-21 | public |
+| https://github.com/twilio-labs/plugin-agent-notes | 956 | 2023-07-18 | public |
+| https://github.com/twilio-labs/sls-apb | 807 | 2023-12-14 | public |
+| https://github.com/twilio-labs/svg-to-react | 802 | 2023-12-19 | public |
+| https://github.com/twilio-labs/sample-flows-github-actions | 741 | 2024-02-18 | public |
+| https://github.com/twilio-labs/twilio-style | 656 | 2024-05-14 | public |
+| https://github.com/twilio-labs/vscode-twilio | 623 | 2024-06-16 | public |
+| https://github.com/twilio-labs/socless_lambda_packager | 621 | 2024-06-18 | public |
+| https://github.com/twilio-labs/code-exchange | 577 | 2024-07-31 | public |
+| https://github.com/twilio-labs/configure-env | 541 | 2024-09-06 | public |
+| https://github.com/twilio-labs/socless_apb | 541 | 2024-09-06 | public |
+| https://github.com/twilio-labs/runtime-helpers | 541 | 2024-09-06 | public |
+| https://github.com/twilio-labs/netlify-okta-auth | 541 | 2024-09-05 | public |
+| https://github.com/twilio-labs/twilio-tap-tripactions | 533 | 2024-09-14 | public |
+| https://github.com/twilio-labs/plugin-alias | 513 | 2024-10-03 | public |
+| https://github.com/twilio-labs/masked-communications-app | 508 | 2024-10-08 | public |
+| https://github.com/twilio-labs/deadshot | 489 | 2024-10-27 | public |
+| https://github.com/twilio-labs/plugin-watch | 478 | 2024-11-08 | public |
+| https://github.com/twilio-labs/socless-playbooks-template | 478 | 2024-11-07 | public |
+| https://github.com/twilio-labs/twilio-style-cli | 471 | 2024-11-15 | public |
+| https://github.com/twilio-labs/socless-examples | 466 | 2024-11-20 | public |
+| https://github.com/twilio-labs/ml-training-api | 462 | 2024-11-24 | public |
+| https://github.com/twilio-labs/sample-sendgrid-email-events-nodejs | 450 | 2024-12-06 | public |
+| https://github.com/twilio-labs/call-gpt | 443 | 2024-12-13 | public |
+| https://github.com/twilio-labs/gordon | 389 | 2025-02-04 | public |
+| https://github.com/twilio-labs/socless | 382 | 2025-02-11 | public |
+| https://github.com/twilio-labs/sample-template-nodejs | 382 | 2025-02-11 | public |
+| https://github.com/twilio-labs/ai-assistants-samples | 382 | 2025-02-11 | public |
+| https://github.com/twilio-labs/languagetool-cli | 377 | 2025-02-16 | public |
+| https://github.com/twilio-labs/twilio-tap-zendesk | 352 | 2025-03-14 | public |
+| https://github.com/twilio-labs/ai-assistants-js | 344 | 2025-03-21 | public |
+| https://github.com/twilio-labs/actions-sms | 326 | 2025-04-09 | public |
+| https://github.com/twilio-labs/snyk-watcher | 270 | 2025-06-04 | public |
+| https://github.com/twilio-labs/socless-slack | 223 | 2025-07-20 | public |
+| https://github.com/twilio-labs/socless-sumologic | 223 | 2025-07-21 | public |
+| https://github.com/twilio-labs/sample-autopilot-voice-ivr | 223 | 2025-07-21 | public |
+| https://github.com/twilio-labs/sample-conversations-masked-numbers | 223 | 2025-07-20 | public |
+| https://github.com/twilio-labs/sample-autopilot-support-bot | 223 | 2025-07-21 | public |
+| https://github.com/twilio-labs/plugin-message-media | 223 | 2025-07-20 | public |
+| https://github.com/twilio-labs/serverless-framework-integration | 222 | 2025-07-21 | public |
