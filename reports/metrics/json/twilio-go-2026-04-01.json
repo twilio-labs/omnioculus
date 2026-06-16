@@ -1,0 +1,38 @@
+{
+    "average_time_to_first_response": "3:49:21",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "3:49:21",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "3:49:21",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 2,
+    "num_items_closed": 0,
+    "total_item_count": 2,
+    "issues": [
+        {
+            "title": "[Security Alert] Exposed API key(s) detected: AWS Access Key",
+            "html_url": "https://github.com/twilio/twilio-go/issues/328",
+            "author": "hdhdn",
+            "time_to_first_response": "3:49:21",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "Call resource mentions iso 4127 but it is iso 4217 for price unit/currency code",
+            "html_url": "https://github.com/twilio/twilio-go/issues/327",
+            "author": "epelc",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-go is:issue created:2026-03-01..2026-03-31"
+}

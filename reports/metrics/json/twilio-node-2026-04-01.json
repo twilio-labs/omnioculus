@@ -1,0 +1,47 @@
+{
+    "average_time_to_first_response": "None",
+    "average_time_to_close": "None",
+    "average_time_to_answer": "None",
+    "average_time_in_labels": {},
+    "median_time_to_first_response": "None",
+    "median_time_to_close": "None",
+    "median_time_to_answer": "None",
+    "median_time_in_labels": {},
+    "90_percentile_time_to_first_response": "None",
+    "90_percentile_time_to_close": "None",
+    "90_percentile_time_to_answer": "None",
+    "90_percentile_time_in_labels": {},
+    "num_items_opened": 3,
+    "num_items_closed": 0,
+    "total_item_count": 3,
+    "issues": [
+        {
+            "title": "How I can get network url of sent message with media(photo) in conversation???",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1185",
+            "author": "NarekMatevosyan",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug] validateRequest() rejects valid signatures containing apostrophes (regression v5.0.4)",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1183",
+            "author": "brypo",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        },
+        {
+            "title": "[Bug] Missing Types: jsonwebtoken",
+            "html_url": "https://github.com/twilio/twilio-node/issues/1180",
+            "author": "pBread",
+            "time_to_first_response": "None",
+            "time_to_close": "None",
+            "time_to_answer": "None",
+            "label_metrics": {}
+        }
+    ],
+    "search_query": "repo:twilio/twilio-node is:issue created:2026-03-01..2026-03-31"
+}
